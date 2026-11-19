@@ -1,0 +1,5538 @@
+INTRODUCTORY LINGUISTICS - CLEANED STUDY TEXT
+Source: 161-page web print-to-PDF export. Quiz widgets and response fields removed.
+Text-only companion: consult cleaned PDF for figures, IPA tables, and structural trees.
+
+
+========================================================================
+WEEK 1 - Introduction to Linguistics
+========================================================================
+Getting Started
+
+Language is an essential part of what it means to be human. We use language
+
+to communicate, listen, read, and write. Language helps us build communities
+
+and relationships, allowing us to bond and grow. Linguistics is a study of all
+
+things related to language - how humans speak, the underlying structure of
+
+language, how children acquire it, how it changes over time, and so on.
+
+
+In this chapter, we are going to talk about the most basic concepts that you
+
+need to know in this course. Let’s start with the following question:
+
+
+
+  What does it mean to know a language?
+
+When you are a native speaker of a language,
+
+
+    1. You know the sounds of that language. You know which sounds do and
+
+     do not exist in that language. You also know which sound combinations
+
+      are or are not possible in your language.
+
+2. Moreover, you are aware of words and word combinations and whether
+
+      certain combinations of words are or are not possible.
+
+    3. Additionally, you know which strings of words are meaningful
+
+      constructions, and which are not. Let’s consider the following
+
+      sentences:
+
+
+    (1)   a. The man has seen the dog. (Grammatical and meaningful)
+
+       * b. Seen man the has dog the.
+
+          (Ungrammatical since it does not follow certain principles (rules) of
+
+the English language)
+
+
+Note: the asterisk (*) placed in front of a sentence signals that it is not correct
+
+or grammatical.
+
+
+As a native speaker of a language, you know whether a sentence is ambiguous
+
+or not. For example, any native speaker of English knows that the following
+
+sentence is ambiguous, and therefore has two meanings:
+
+
+    (2) The tourist saw the astronomer with the binoculars.
+
+
+Meaning 1: The tourist used the binoculars to see the astronomer.
+
+
+Meaning 2: The astronomer that the binoculars saw had a telescope
+
+
+Note that this linguistic knowledge is unconscious that is people speaking a
+
+specific language are able to explain what constructions are correct or
+
+incorrect in that language, but they are not able to explain why. This
+
+unconscious knowledge is also called competence.
+
+When you know a language, you also have the knowledge of the real-world
+
+usage. You can make a distinction between familiarity and formality. For
+
+example, you are aware that the sentence in (3a) is used in an informal context
+
+while the sentence in (3b) is used in a formal context:
+
+
+    (3)  a. What y’all watchin?
+
+        b. What are all of you watching?
+
+
+The above sentences are examples of register/style. The first one indicates an
+
+informal register while the second one is an example of formal register.
+
+Register/style refers to the levels of formality. Register is a variety of language
+
+used in a particular social setting. Now, consider the following sentences:
+
+
+    (4)  a. Gimme that, k?
+
+        b. Could you give me that?
+
+         c. Might I trouble you to give me that, if you’d be so kind?
+
+
+Can you tell the difference between sentence (4a) and (4c)? In what context do
+
+you use the first sentence? In what contexts do you use the other two?
+
+You are right! All of these sentences are grammatical, but they differ in terms of
+
+how formal they are. The first one is used in an informal context, probably with
+
+your friends and close family members, and the last one is used in more formal
+
+contexts. Can you name a few formal contexts in which you may use more
+
+formal language?
+
+It’s not just the informal register that is restricted to certain situations; it can be
+
+equally inappropriate to use a formal register in casual situations. For example,
+
+sentence (4c) would be a really strange thing to say if you were asking your
+
+best friend to hand you a pen they are holding. Remember register is not about
+
+grammaticality, but about appropriateness.
+
+
+Do not forget that knowing a language also means being able to speak and be
+
+understood by others who know that language.
+
+Grammar
+
+Grammar has various distinct meanings. For linguists, grammar is a mental
+
+system of rules that exists in the head of native speakers. This system of rules
+
+allows native speakers of a language to produce and understand sentences
+
+that have never been produced or heard before. This is what we also call
+
+mental grammar. Our mental grammar consists of 5 main components:
+
+
+    1. Phonetics - deals with the perception and articulation of speech
+
+     sounds
+
+2. Phonology - deals with sound combinations (which sound
+
+     combinations are possible)
+
+    3. Morphology - deals with the structure of words
+
+    4. Syntax - deals with sentence structure
+
+    5. Semantics - deals with meaning and the interpretation of sentences
+
+
+Therefore, grammar is a complex system of rules that governs how speakers
+
+organize sounds into words and words into sentences.
+
+Now that you know what we mean by ‘grammar’, you need to know that there
+
+are two different approaches to study grammar: descriptive versus
+
+prescriptive approach.
+
+Prescriptive Grammar
+
+Prescriptive Grammar (traditional grammar): Prescriptive grammarians
+
+believe in absolute standard of correctness. This approach to grammar
+
+governs the version of English considered appropriate for use by educated
+
+speakers. Here we are dealing with should(s) and shouldn’t(s)- how you should
+
+speak and how you shouldn’t speak.
+
+
+ In prescriptive grammar:
+
+
+a. One form is more logical than another
+
+b. An appeal to classical forms
+
+c. A preference for older forms of the language
+
+d. Injunction against the use of foreign words (words borrowed from other
+
+languages)
+
+
+According to this view, language is either correct or incorrect and any educated
+
+person should be able to understand at once and follow faithfully the norms of
+
+correctness which are thought to be preserved in authorities’ reference works
+
+such as dictionaries and handbooks.
+
+Consider the following example:
+
+
+7 ) Me and John went to the movies.
+
+The answer is NO! From a prescriptive point of view, this sentence “should” be
+
+‘John and I went to the movies.’
+
+Note that in this course, we are NOT concerned with prescriptive grammar.
+
+Instead, we make appeal to the concept of Descriptive Grammar, but what is
+
+Descriptive Grammar?
+
+Descriptive Grammar
+
+Descriptive Grammar: A descriptive approach is one which studies and
+
+characterizes the actual language of specific groups of people in a range of
+
+situations. It does not bring any preconceived notions of “correctness” to the
+
+task or favors the language of one social group as somehow better than those
+
+of others. It describes how our grammatical system operates. It also aims at
+
+recoding facts, describing the actual language (descriptive rules) as
+
+comprehensively as possible, and avoids law-giving tone of school room
+
+traditional grammars. Linguists are descriptive grammarians. When Linguists
+
+write a grammar of a language, they attempt to describe the rules that govern
+
+the grouping of the words of that language into meaningful patterns.
+
+
+Descriptive Linguists counter the above prescriptive claims with the following:
+
+
+a. All varieties of a language are valid systems with their own logic and
+
+conventions.
+
+b. There is no strong reason to expect one language to match the mold of
+
+another.
+
+c. Languages are continually changing in subtle ways without reducing their
+
+usefulness, preciseness or aesthetic value.
+
+d. All languages have adopted words from other sources.
+
+
+Note that both approaches to language studies involve rules, but prescriptive
+
+rules are about mandating language and descriptive rules are about describing
+
+language (i.e., descriptive rules tell us what speakers do and don’t do,
+
+prescriptive rules tell us what speakers should and shouldn’t do). Descriptive
+
+rules form the basis for grammaticality judgments (i.e., the opinion of a native
+
+speaker as to whether a given construction is well formed or not), which are
+
+always made relative to a particular dialect (e.g., something that is
+
+grammatical in Standard British English won’t necessarily be grammatical in
+
+Standard Canadian English or African-American Vernacular English, etc.).
+
+
+Below are some examples of prescriptive rules: a. Don’t end a sentence with a
+
+preposition i. *“What are you looking at?” vs. “At what are you looking?” ii.
+
+*“Who are you talking to?” vs. “To whom are you talking?” b. Don’t split an
+
+infinitive (to+base form) i. *“To gradually understand the facts” ii. * “He seems
+
+to really like it” c. Don’t use double negatives. Two negatives make a positive i.
+
+“I didn’t see nobody” = I saw somebody. ii. “I haven’t got nothing”= I got
+
+something.
+
+
+And descriptive rules: a. Articles like the and a go before the noun. b. In English,
+
+adjectives come before nouns to modify them. c. The word order in English is
+
+Subject+Verb+Object. How do you feel about the two sentences below? Which
+
+one violates descriptive rules? Which one violates prescriptive rules? 5) This is
+
+the man you took a picture of. 6) Lucy saw myself last week.
+
+Characteristics of Grammar
+
+There are five characteristics of grammar:
+
+
+1.Generality: all languages/dialects (and speakers/signers) have a grammar.
+
+However, individual grammatical systems differ in the use of structure
+
+formation rules. In Warlpiri (an indigenous language of Australia) a sentence
+
+like: The two dogs now see several kangaroos could be translated by the
+
+equivalent of any of the following sentences:
+
+
+a. Dogs two now see kangaroos several.
+
+b. See now dogs two kangaroos several.
+
+c. See now kangaroos several dogs two.
+
+d. Kangaroos several now dogs two see.
+
+e. Kangaroos several now see dogs two.
+
+
+2.Parity: all grammars are equal. -There is no such thing as a “primitive”
+
+language. There is no such thing as a “good grammar” or “bad grammar”. All
+
+grammars (unconsciously) instruct people on how to form and interpret words
+
+and sentences of their language.
+
+
+3.Mutability: grammars change over time Moreover, when grammars change,
+
+they do so within strict limits. Also, it cannot be the case that that older
+
+varieties of language are better than the new ones. There are no grounds to
+
+accept the hypothesis that “languages attain a state of perfection at some
+
+point in their history and that subsequent changes lead to deterioration and
+
+corruption”.
+
+
+4.Inaccessibility: grammatical knowledge is unconscious it cannot be figured
+
+out just by thinking about it. Recall the examples from linguistic competence!
+
+
+5.Universality: all grammars are alike in basic ways in spite of apparent
+
+distinctions, all languages share an inventory of principles and properties
+
+(including the so-called universals). Some examples include:
+
+
+a. All languages use a small set of contrastive sounds to help distinguish words
+
+from each other (to as opposed to do)
+
+    b. any language that has a b sound, almost certainly has a p sound.
+
+Standard Versus Non-standard
+
+There are many varieties of English, each group follows a slightly different
+
+subset of rules by which language operates. Standard language is the variety of
+
+a language spoken by the most powerful group in a community and generally
+
+held to be “correct” by prescriptive grammarians. Standard or prestige varieties
+
+are usually based on the speech of the rich, powerful, and highly educated
+
+members of a society (political elite or upper-class). People considered
+
+standard speakers as long as they do not use any strongly stigmatized forms,
+
+for example, I seen it instead of I have seen it or I ain’t got nothing instead of I do
+
+not have anything or I have went instead of I have gone.
+
+Keep in mind that non-standard/non-standard language does NOT mean
+
+ungrammatical! A sentence can be informal and still grammatical. To show an
+
+ungrammatical sentence we use the asterisk (*) before the sentence. A
+
+sentence that is judged as ungrammatical in one dialect or variety can be
+
+judged as grammatical and acceptable in another variety. Something that is
+
+grammatical in Standard British English won’t necessarily be grammatical in
+
+Standard Canadian English or African-American Vernacular English.
+
+
+========================================================================
+WEEK 2 - Morphology
+========================================================================
+1. Introduction
+
+In future chapters, we will examine the smallest units of language – phonemes.
+
+Phonemes correspond to sounds and are considered building blocks of
+
+language. However, on their own phonemes carry no significant meaning but
+
+words do.
+
+
+Morphology, a division of linguistics, looks at words and their formation. In
+
+this chapter we will look at how morphology deals with categorization of
+
+words, internal word structures, and processes by which a language creates
+
+and modifies words.
+
+
+We all agree that language is creative, and that humans have the ability to
+
+produce and understand an infinite range of sentences and words never heard
+
+before. In our mental lexicon, we store sounds from which we create words.
+
+Simple words are also stored in our lexicon. Sounds and words, as well as
+
+other signs, are forms to which meanings are attached.
+
+
+The relation form-meaning is arbitrary (Saussure 1916); it is not iconic (based
+
+on intrinsic properties). An important question: are all sounds and words we
+
+store in our mental lexicon the same? We’ve seen that not all sounds possible
+
+in human language are identical.
+
+
+In the following sections, we are going to discuss the following:
+
+
+    1. What is Morphology?
+
+    2. Word Classes/Categories
+
+3. Affixation
+
+    4. Word-Formation Processes
+
+
+This chapter, as well as the following, is dedicated to the analysis of the
+
+structure (constituency) of words, the part of linguistics known under the name
+
+of morphology. Morphology is from Greek morphos (‘form’) and logos
+
+(‘science’). In linguistics, the study of the structure of words and the
+
+component of grammar that includes the rules of word formation or how units
+
+of meaning combine to form words.
+
+2. Words and Their Structure
+
+Have you ever had the opportunity to listen to a conversation in a foreign
+
+language only to discover that you could not tell one word apart from the
+
+other? As speakers of English, or any other languages, we have the ability to
+
+segment sounds into meaningful words. So, what exactly does it mean to be a
+
+word?
+
+
+What is a word? An element that does not have to occur in a fixed position with
+
+respect to neighboring elements. Consider the following sentence:
+
+
+    (1) Elephants are amazing.
+
+
+We have the intuition that the forms elephants is a word, and that the element
+
+–s is not - -s never occurs in isolation in English and has to be attached to the
+
+noun to which it belongs
+
+
+    (2) *Elephant are-s amazing.
+
+       *Elephant are amazing-s.
+
+
+The intuition is that elephants is a word because it can occur in isolation, and
+
+in different positions in the sentence.
+
+(3) I like elephants.
+
+    (4) Everyone at the zoo is crazy about elephants.
+
+    (5) Many elephants live in Africa, but there are no elephants in Europe.
+
+
+Moreover, the elephants example above demonstrates other important facts
+
+about human language: - words are not unstructured - they are not the
+
+smallest units of meaning The addition of –s is not insignificant.
+
+
+A word, in linguistics, is the smallest free form. A free form can stand on its
+
+own, without having to be attached to any other element. For instance:
+
+
+(1) I have the laziest cat in the world.
+
+
+We can see that laziest is a word in a sentence such as (1) but -est is not
+
+because it is not a free form. We cannot put -est separately from lazy as
+
+exemplified by (2). (Note that if an element cannot stand on its own, it is
+
+written with a hyphen; an asterisk specifies ungrammaticality.)
+
+
+(2) *I have -est the lazy cat in the world.
+
+
+2.1. Morphemes
+
+
+As we have seen in previous sections, words have an internal structure of
+
+smaller units of meaning.
+
+
+A morpheme is the smallest unit of meaning in a language, carrying some
+
+information about either function or the meaning. Let’s start with a test. How
+
+many elements (morphemes) do you think exist in the word ‘unhappiness’?
+
+
+Correct! There are three words in this word: un-, happy-, and -ness. We say that
+
+there are three morphemes in this word. These morphemes are meaningful
+
+and cannot be broken down anymore. For examples, the morpheme un-
+
+means ‘not’ and it cannot be further analyzed.
+
+How about the word desk? How many morphemes are present in the word
+
+‘desk’? Yes, the word ‘desk’ contains one morpheme, and as a result we call it a
+
+simple word. However, a word such as ‘happiness’ is called complex since it
+
+consists of more than one morpheme. Therefore, Words may be made up of a
+
+single morpheme (jump) which cannot be further analysed into smaller
+
+morphemes. These words are called simple, contrasting complex words
+
+which are composed of two or more morphemes (delet-ion, job-less-ness, in-
+
+suffer-able).
+
+
+Now, let’s look at another word, for example, the word wishful. How many
+
+morphemes do you think are there in the word ‘wishful’?
+
+
+Answer: The word ‘wishful’ is made up of two morphemes: wish having the
+
+meaning of ‘a need, desire’ and -ful meaning ‘full of N’.
+
+2.1.1. Allomorphs
+
+Now, that we know what morphemes are, we are going to discuss allomorphs.
+
+Sometimes morphemes vary in pronunciation, producing allomorphs. These
+
+different pronunciations depends on the context where the morpheme occurs.
+
+Consider the past morpheme in English. The past morpheme -ed is
+
+pronounced differently depending on its neighbouring sounds. Try
+
+pronouncing the following verbs:
+
+
+a. booked
+
+b. begged
+
+c. stated
+
+
+How is -ed pronounced in each verb?
+
+
+Correct! In the first verb, the -ed is pronounced as [t], in the second verb as [d],
+and in the last verb as [əd]. These different pronunciations of the morpheme -
+
+ed are called allomorphs. Can you think of other morphemes in English that
+
+have different pronunciations depending on the context in which they are?
+
+
+Answer: English has a few examples of such morphemes, the most famous
+
+example being the plural -s. Read the following words and note how the
+
+pronunciation of -s changes:
+
+
+(7) bits
+
+   bags
+
+   churches
+
+
+Notice how in bits the plural is [s], in bags the plural is [z], and finally in
+churches it is [əz]. This variation in pronunciation depends on the phonological
+
+environments (see the chapter on phonology).
+
+Can you list the allomorphs of the morpheme in- (meaning ‘not’) in English
+
+adjectives?
+
+Example: Impossible --> in-+possible (not possible)
+
+2.2. Free and Bound Morphemes
+
+Free morphemes refer to morphemes that are words on their own and can
+
+stand on their own. They do not have to attach to other words in a sentence. A
+
+morpheme that must attach to another element in a sentence is called bound.
+
+Take the word crying, for instance. Cry is a free morpheme since it can be used
+
+as a word without anything attaching to it; however, the bound morpheme -ing
+
+cannot stand on its own and must attach to cry.
+
+Example: paint is a free morpheme while the morpheme -ness is bound.
+
+It is important to note that there are languages that express concepts
+
+differently from English. Where English refers to certain concepts using free
+
+morphemes, other languages use bound morphemes (and vice versa).
+
+2.2.3. Roots and Affixes
+
+To understand the complex internal structures of words, we must first each
+
+morpheme as well as identify its role in assigning meaning and function to the
+
+larger word.
+
+
+Complex words are made up of a root and one of more affixes. The root
+
+contributes to the core meaning of the word. Roots usually belong to a lexical
+
+category such as noun (N), verb (V), adjective (Adj), preposition (P), or adverb
+
+(Adv).
+
+
+Affixes, on the other hand, do not belong to lexical categories and are bound
+
+morphemes. An example of an affix is -ness, a bound morpheme that combines
+
+with adjectives such as fluffy and kind to produce nouns meaning ‘quality or
+
+state of X’.
+
+Correct: (b) – trust! ‘Trust’, as a free-standing word, contains the core meaning
+
+of ‘distrusting’. It cannot be broken down any further and it belongs to a lexical
+
+category (N). On the other hand, affixes dis- and -ing cannot stand alone and
+
+do not belong to any lexical categories.
+
+Bases
+
+A form to which an affix attaches is called a base. In some cases, the base is
+
+also the root. In words such as kindness, the affix -ness attaches to the base
+
+kind, which happens to be the root. In larger, more complex words such as
+
+joblessness, we attach -less to the first base which is the root job (notice how
+
+the root carries the main meaning here). Then -ness attaches to the second
+
+base which is no longer the root, but a unit made up of job and -less.
+
+
+
+   Tip: All roots can be bases, but not all bases are roots!
+
+2.3. Types of Affixes
+
+Affixes can be classified based on their position with respect to the base. An
+
+affix attaching to the front of the base is called a prefix while an affix attaching
+
+to the end of its base is called a suffix.
+
+
+    (3) Examples of English prefixes
+
+       Re-organize
+
+In-arguable
+
+        De-rail
+
+
+    (4) Examples of English Suffixes
+
+        Fruit-ful
+
+       Teach-er
+
+      Enjoy-ment
+
+
+Both prefixes and suffixes can be easily found in English. There are, however,
+
+other types of affixes that are either rare or absent from languages such as
+
+English. An affix called an infix is inserted inside another morpheme.
+
+
+Note that there is a difference between infixes and affixes like prefixes and
+
+suffixes. While prefixes and suffixes attach to the morpheme boundaries (ir-
+
+regular and job-less), an infix in some sense breaks apart the morpheme.
+
+Consider this marginal infix in English:
+
+
+    (5) Abso-freaking-lutely
+
+       Fan-freaking-tastic
+
+
+In the case of both abso-freaking-lutely and fan-freaking-tastic, the infix -
+
+freaking- breaks up the bases absolutely and fantastic.
+
+
+Finally, we will look at circumfixes. Circumfixes are the opposite of infixes,
+
+surrounding the base to which they attach. There are no circumfixes in English
+
+though we see this type of affix in languages such as German and Dutch.
+
+Correct: (c) – Suffix! Since -al attaches to the end (or the rightmost side) of the
+
+base, it is considered a suffix.
+
+3. Derivation and Inflection
+
+As mentioned in the previous section, affixes can be categorized based on their
+
+position to the base. Affixes are also classified with respect to their function.
+
+
+Derivation refers to an affix that creates a word with a changed meaning
+
+and/or lexical category. There is a multitude of derivational affixes in English
+
+such as -er, -ment, -al, and -ize. For instance, the suffix -al attaches to nouns
+
+such as condition to form an adjective meaning ‘the property/character of N’.
+
+As such, condition (N) becomes condition-al (Adj) which is a new word with a
+
+completely different lexical category. Once a new word is formed, it becomes a
+
+lexical item that typically receives its own entry in the speaker’s mental
+
+dictionary.
+
+
+Inflection is the process by which a language marks changes in grammatical
+
+information. Inflection does not change either the meaning or the lexical
+
+category of the words. Inflection is also typically realized through affixation. In
+
+English, there are only eight inflectional affixes all of which are suffixes. See the
+
+table below for the list of English inflectional suffixes:
+
+While affixation is the most common means for expressing inflection in English,
+
+there are other ways to mark inflection. We will look at these processes later in
+
+the chapter.
+
+
+========================================================================
+WEEK 3 - Morphology II: Word Structures
+========================================================================
+So far, we have been using hyphens to separate morphemes in a linear fashion.
+
+The internal structure of words can also be represented using morphological
+
+trees. For instance, if we were to represent the word joblessness in a tree, we
+
+would see the following structure (note that ‘Suff’ stands for suffix and ‘Pref’
+
+stands for prefix):
+
+
+
+
+
+Additional examples of word structures are provided below:
+
+Morphological trees are typically a clear way of visualizing word structures. It is
+
+important to first identify the root of the complex words you are dealing with.
+
+Once you identify the root, you should find all the affixes attaching to it. In the
+
+case of words that have multiple suffixes (or prefixes) attaching to the root,
+
+remember that the element closest to the root attaches first. Additionally, keep
+
+in mind that derivational affixes attach first. This means that inflectional affixes
+
+always attach after all of the derivational affixes have attached to their bases.
+
+Let’s consider the word immunities which consists of the root immune, and
+
+two suffixes -ity and -s. Since -ity is a derivational affix (DA), it attaches to the
+
+root immune first. If the plural -s could attach to adjectives, *immune-s-ity
+
+would result in an ungrammatical word as plural -s is an inflectional affix (IA).
+
+[Visual figure preserved in PDF]
+
+Complex Derivations and Constraints
+
+The process of identifying and drawing morphological trees is further
+
+complicated when dealing with words that have both prefixes and suffixes.
+
+Consider the word discontinuation. At this point we can create two separate
+
+tree structures to represent the word:
+
+
+So, which of the two affixes would we attach first, dis- or -ion?
+
+As our first step to parsing the word discontinuation,
+
+we could consider the two affixes and test whether
+
+we can create English words by attaching them to
+
+the root in isolation. If we attach dis- to continue first,
+
+we produce the word discontinue (V). Similarly, if we
+
+attach -ion to continue, we create continuation (N).
+
+Since discontinue and continuation are acceptable
+
+words in English, we must look to the properties of
+
+the affixes themselves in order to determine the
+
+correct order.
+
+
+                    The key to determining which derivation is correct in
+
+                        the case of discontinuation is the fact that dis- freely
+
+                        attaches to verbs but not nouns. We cannot create
+
+                     words such as *disknowledge, *distable, or *distruth.
+
+                  On the other hand, -ion attaches to verbs resulting in
+
+                     nouns (construct-ion, protect-ion, and so on). If we
+
+attach -ion first, we will create a noun that removes the possibility of dis-
+
+attaching. Thus, the correct morphological tree corresponds to (i) where we
+
+attach the prefix dis- to the root continue before moving on to -ion which finally
+
+creates the noun discontinuation.
+
+Morphological Ambiguity
+
+In previous sections we looked at internal structures of unambiguous words.
+
+Usually, words contain a single meaning that allows us to derive a single
+
+morphological tree. As we delve deeper into morphological, we may come
+
+across structurally ambiguous words. These words have multiple meanings
+
+which reflect the possibility of drawing more than one morphological tree.
+
+
+A common example of a structurally ambiguous
+
+word is untieable. Words such as untieable have two
+
+meanings which are a direct result of the ways in
+
+which morphemes combine. Let’s look at the two
+
+affixes attaching to the root tie (V): un- and -able. If
+
+you recall, un- carries a negative or reversive meaning and attaches to verbs
+
+(granted the action is reversible) and adjectives. The suffix -able attaches to
+
+verbs and denotes the ability to do something. Since the root tie is a verb, we
+
+can attach the prefix un- to form untie and later attach -able to form the
+
+adjective untieable:
+
+
+The second derivation is the opposite of the tree above: the suffix -able
+
+attaches to the root to produce the adjective tieable. Since the prefix un- can
+
+attach to adjectives, we end up with untieable:
+
+
+                    A native speaker of English is able to identify the two
+
+                     meanings depending on the context. The meaning of
+
+                                       (i) is significantly different from the meaning of (ii),
+
+                        the first being ‘able to untie’ whereas the second tree
+
+                        representing ‘not tieable’ or ‘unable to tie’.
+
+Correct: (c) – It is not ambiguous! While ‘unbelievable’ fulfils the requirement of
+
+having the affixes un- and -able, the verb ‘believe’ is not reversible. Since there
+
+is no way to ‘unbelive’ a certain fact, suffix -able attaches to the root first,
+
+creating ‘believable’. Un- attaches later to create the meaning of ‘not
+
+believable’.
+
+Word Formation Processes
+
+Compounding
+
+Earlier in the chapter we have seen two of the most common word formation
+
+processes in English, as well as other languages – inflection and derivation.
+
+Compounding is another process by which we create new words in English.
+
+Compounding involves joining together two existing words into a new unit.
+
+Most of the time, the resulting compounds belong to one of the following three
+
+lexical categories: a noun, an adjective, or a verb. A few examples include
+
+parking ticket (N), force-feed (V), and carsick (Adj).
+
+
+Notice that for most compounds in English, the rightmost element determines
+
+the lexical category of the entire compound. A parking ticket is a noun since
+
+the rightmost morpheme is a noun. The same applies to force-feed and carsick
+
+– feed in this context is a verb while sick is an adjective. The element that
+
+determines the lexical category of a compound is the head.
+
+
+Additionally, the formation of compounds is not limited to two morphemes,
+
+allowing multiple compounds to combine into larger words:
+
+
+(1) Train station
+
+(2) Train station exit
+
+
+Compounding is a very productive word creation process that facilitates the
+
+expansion of our dictionaries at incredibly short intervals. Here are a few
+
+compounds the Marriam-Webster Dictionary added in March of 2018:
+
+
+New compounds added by the Marriam-Webster Dictionary in 2018
+
+
+
+
+
+Properties of Compounds
+
+Compounds are written in a multitude of ways, sometimes being represented
+
+with a hyphen, as a single word or as separate words. The pronunciation of
+
+compounds, however, is very different to that of separate words. Typically, the
+
+stress falls on the first element of the compound whereas in non-compound
+
+word combinations the stress usually falls on the second element. For
+
+instance, the compound greenhouse, meaning a glass-enclosed garden,
+
+receives the stress on the adjective green. Meanwhile, the expression green
+
+house, meaning a house that is green in colour, stresses the noun house.
+
+Endocentric and Exocentric Compounds
+
+The compounds are additionally classified based on the meaning they convey
+
+to the speaker. Endocentric compounds tend to relay meaning that is related
+
+to the head of the compound. Thus, an earthworm is a type of worm and self-
+
+care is a type of care.
+
+
+In other cases, the meaning of the compound is not directly derived from the
+
+second morpheme of the compound. Boldface is not a type of face, but a
+
+typeface made with thick strokes. Similarly, a bluebell is not a type of bell but a
+
+flower. These compounds are called exocentric.
+
+Correct: (b) – Endocentric! The main meaning of this compound comes from
+
+the head ‘ticket’.
+
+Other Word Formation Processes
+
+Internal Change
+
+Internal change is one of the word formation processes related to inflection.
+
+During internal change, one non-morphemic element is substituted for
+
+another to mark grammatical changes. A common example of internal change
+
+is mouse (singular) becoming mice (plural).
+
+
+Ablaut is a form of internal change that deals with vowel alternations that
+
+mark grammatical contrasts as seen in swim (present) - swam (past) and drink
+
+(present) - drank (past).
+
+
+Umlaut is a type of internal change that reflects earlier stages in a language’s
+
+development. Two of the most famous examples of umlaut in English are the
+
+plural forms geese and feet.
+
+Suppletion
+
+Suppletion is the process by which one morpheme is replaced by another
+
+completely unrelated morpheme. For example, the English verb go is replaced
+
+by went in the past tense.
+
+Reduplication
+
+Another common word formation process that can denote grammatical as well
+
+as semantic contrast is called reduplication. Partial reduplication involves
+
+repeating a part of the morphological base. Partial reduplication is seen in
+
+Tagalog, which copies the first consonant-vowel cluster of the base:
+
+
+
+
+
+Additionally, languages utilise full reduplication by copying the entire
+
+morphological base to change meaning. Indonesian is a language that uses full
+
+reduplication to mark plurality as seen below:
+
+Zero Derivation
+
+Zero derivation or conversion is a process that allows a language to assign a
+
+new lexical category to an already existing word. Since zero derivation changes
+
+the lexical category of the word, it is considered to by a type of derivation
+
+process which does not involve affixation. Some of the more recent
+
+conversions include Google (N) – to Google (V), inbox (N) – to inbox (V), and
+
+Skype (N) – to Skype (V). Notice the way many of the recently created company
+
+and product names (originally nouns) are converted into verbs.
+
+Clipping
+
+A process which shortens a multisyllabic word by deleting of one or more
+
+syllables is called clipping. Names are a common product of this process,
+
+resulting in names such as Rob, Kat, and Liz. Other examples of clipping
+
+include fan from fanatic, bio from biology, and app from application.
+
+Blending
+
+Blending creates new words from parts of already existing words, typically
+
+from the first part of the first element and the final part of the other element.
+
+Some of the most common blends include brunch from breakfast and lunch,
+
+motel from motor and hotel, and smog from smoke and fog. A more recent
+
+addition to the dictionary includes the blend schnoodle, which is a cross
+
+between a schnauzer and a poodle.
+
+Backformation
+
+Backformation is a process that creates new lexical entries by removing an
+
+affix (real or supposed) from an already existing word. Donate was originally
+
+formed from the noun donation by removing the supposed suffix -ion which
+
+attaches to verbs in order to create nouns. In English, words ending in the suffix
+
+-er or -or are also susceptible to backformation where nouns such as editor
+
+become misanalysed to form verb forms like edit.
+
+Acronyms and Initialisms
+
+Acronyms are created by taking the first letters of the words in a phrase and
+
+pronouncing them as a word. Examples of acronyms include NASA (National
+
+Aeronautics and Space Administration), NATO (North Atlantic Treaty
+
+Organization), and BOGO (buy one, get one).
+
+
+Initialisms, also known as abbreviations, contrast acronyms as they are
+
+pronounced as a string of letters rather than a complete word. Initialisms
+
+include USA (United States of America), CD (Compact Disc), and FBI (Federal
+
+Bureau of Investigation).
+
+Coinage
+
+Coinage is another word formation process which produces new words from
+
+scratch. Coinage is responsible for product names, company names, and so on.
+
+Words like Kleenex, Kodak, and Teflon are examples of product names created
+
+without using any of the previously mentioned word formation processes.
+
+Eponymy
+
+Eponyms are new words created from names of people. Ferris wheel was
+
+named after George Washington Gale Ferris Jr., jacuzzi named after Candido
+
+Jacuzzi, and watt was named after a scientist James Watt.
+
+
+========================================================================
+WEEK 4 - Syntax I: Categories
+========================================================================
+1. Introduction
+
+By the end of this Chapter, you will have enough tools to equip yourself in
+
+figuring out the parts of speech (or syntactic categories in Linguistic terms).
+
+This may seem intuitive at first, since we all have the simplified knowledge of
+
+parts of speech when we were young, but the approach and technique we will
+
+enhance and refine our current knowledge and tackle not only English, but
+
+other languages as well. To begin, this chapter will focus on the English
+
+language, but will present techniques that can be used in other languages as
+
+well.
+
+
+Let’s review some parts of speech in English. We all know what a noun is
+
+because we were taught that it is a name, place, person, thing or event. A verb
+
+is an action. An adjective modifies a noun. A pronoun replaces a noun. But
+
+can we use these definitions in a different language?
+
+
+As you can see, the function of the words is not necessarily the indicator of the
+
+usage of the word. We will use this notion, in tandem with the meaning of the
+
+words, as a universal algorithm or template to map the syntax of the languages
+
+of the world. Now, thinking of the words in the English dictionary, or the
+
+English Lexicon if you so prefer, it can easily be seen that you can have an
+
+infinite list. Words like Google and tweet are new in the dictionary; slangs like
+
+mans, mandems, fam, are not always included, but have a place in the current
+
+syntactic composition of today’s youths. But how does one quantify or
+
+organize the words? If an infinite list can be created, then organizing an infinite
+
+list would be counterproductive or counter intuitive right?
+
+Referring back to the example, even with nonce words, we can figure out the
+
+potential parts of speech using the surroundings as a filter to aid in the
+
+deduction. Looking closer at the descriptions, we can form a rule for each part
+
+of speech and distinctively differentiate it with one another.
+
+2. Syntactic Categories
+
+As mentioned earlier, we will differentiate the difference between Parts of
+
+Speech and Syntactic Category. In Syntax, we have 10 different categories:
+
+Nouns, verbs, adjectives, adverbs, prepositions, determiners (sometimes
+
+referred to as articles like the, a and an), pronouns, tense,
+
+conjunction/complementizers and negation. Note that some, if not most, of
+
+the categories are very similar to what we know as parts of speech However,
+
+there is are two sub-categories that separate these categories:
+
+
+                    The lexical category allows for infinite word creation,
+
+                        while the functional category is often fixed and very
+
+                           limited. Try coming up with a new noun or a verb.
+
+                 Now try to create a new auxiliary – this should prove
+
+to be much more challenging.
+
+Suppose this example:
+
+
+The flankish dripners blotked saristofically into the nundan with the pudis
+
+quirpickly above the muornks
+
+
+Question: How can you tell which part of speech are the nonce words in this
+
+pseudo-English example?
+
+
+Answer: You use clues around the unknown words! Your train of thought
+
+should look like this:
+
+
+      flankish: between the and a noun(dripners); also takes the -ish which is
+
+     an adjectival marker.
+
+      Dripners: after the supposed adjective; comes before the; subject of
+
+      the sentence.
+
+      Blotked: after the subject noun; takes the tense marker -ed
+
+       saristofically: possibly an adverb since it has the adverbial marker -
+
+         ly;it comes after the supposed verb.
+
+     Nundan: after the and after a preposition
+
+
+As you can see, the meaning of the words is not necessarily the indicator of the
+
+usage of the word. Now, thinking of the words in the English dictionary, or the
+
+English Lexicon if you so prefer, it can easily be seen that you can have an
+
+infinite list. Words like Google and tweet are new in the dictionary; slangs like
+
+mans, mandems, fam, are not always included, but have a place in the current
+
+syntactic composition of today’s youths. But how does one quantify or
+
+organize the words? If an infinite list can be created, then organizing an infinite
+
+list would be counterproductive or counter intuitive right?
+
+3. PARTS OF SPEECH OR SYNTACTIC
+CATEGORY
+
+As mentioned earlier, we will differentiate the difference between Parts of
+
+Speech and Syntactic Category. In English grammar, we have 10 different
+
+categories: Nouns, verbs, adjectives, adverbs, prepositions, determiners
+
+(sometimes referred to as articles like the, a and an), pronouns, tense,
+
+conjunction/complementizers and negation. Note that some, if not most, of
+
+the categories are very similar to what we know as parts of speech. However,
+
+there are two sub-categories that separate those 10 categories:
+
+
+Lexical Categories (Open Categories)
+
+
+     Nouns (N)
+
+      Verbs (V)
+
+       Adjectives (A/Adj)
+
+      Adverbs (Adv)
+
+      Prepositions (P)
+
+
+Functional Category (Closed Categories)
+
+
+      Determiners (D)
+
+      Pronouns (Pro)
+
+      Tense (T) or AUX
+
+      Conjunction/Complementizer (Conj/C)
+
+      Negation (Neg)
+
+Open Categories or words that belong to the open class allow for infinite
+
+creation while Closed Categories are often fixed and very limited. Go ahead, try
+
+to create a new pronoun. This is due to the fact that pronouns belong to the
+
+closed class. However, you can think of many new nouns, verbs, adjectives,
+
+adverbs that have entered the English language recently. Can you list a few of
+
+them below?
+
+Question: How do I differentiate/test between the two, or how does one
+
+identify a syntactic category?
+
+
+Answer: This is a two-step process! if the word in question has full meaning,
+
+then it is a lexical category. Otherwise, a functional category.
+
+
+Note that the open class contains more words compared to the closed class.
+
+There is also the possibility of creating new items in this class. Therefore, the
+
+open class (lexical categories) contain an unlimited number of words. This is
+
+what we refer to as productivity. However, functional categories are usually
+
+countable. Moreover, the members of the open class or lexical categories are
+
+meaningful. This is while functional words are either contentless or often need
+
+help from those with meaning.
+
+
+Comparing this with the traditional meaning of Parts of Speech, the Syntactic
+
+Categories give us a more succinct definition of what we know as Parts of
+
+Speech.
+
+3.1. IDENTIFYING MAJOR/LEXICAL
+CATEGORIES
+
+3.1.1. What are Nouns?
+
+Traditionally, nouns are defined as words that name a person, place, thing or
+
+an idea; this definition enables us to differentiate nouns from other lexical
+
+categories. However, this definition does not always hold true. Think of the
+
+noun ‘love’ or the noun ‘kick’. Can you tell why the above definition does not
+
+work for these two words?
+
+As we mentioned earlier, the meaning of the word does not always help us
+
+with identifying the category of that word. Therefore, we will need to use other
+
+tools to determine the category of a certain word. For instance, in English,
+
+words may carry an ending (i.e. suffix) that attaches to the word in order to
+
+indicate the lexical category of that word. For example, for nouns, there are
+
+special endings that indicate that word is a noun. Of these endings, we can
+
+name -ment, -tion, -ity, -ness etc. These endings can be found in nouns such as
+
+improvement, construction, reality and happiness. Nouns can carry other
+
+suffixes or endings that add some grammatical information to the noun; the
+
+suffix -s indicates plurality when it attaches to a noun. For example, in the word
+
+pencils, the suffix -s makes the noun ‘pencil’ plural. Now consider the ending in
+
+the following example
+
+
+1) Simon’s shoes
+
+
+How do you think ‘s is different from the suffix -s that you see in the word
+
+‘shoes’?
+
+Correct! The suffix ‘s also attaches to nouns to add some grammatical
+
+information. In this case, the ‘s signifies possession; that is the ‘shoes’ belong
+
+to Simon.
+
+
+The above example shows that nouns are variable; They can change in terms
+
+number or plurality in English. They can also change to show possession. Note
+
+that in English, we usually add the plural suffix -s to create a plural noun. This is
+
+what we call a regular rule. Therefore, the plural form of the word ‘cat’ is ‘cats’.
+
+Some nouns, on the other hand, are irregular. That is they do not take the
+
+plural marker -s in their plural form. Can you think of any irregular plural
+
+forms?
+
+Nouns can take determiners
+
+
+     The cat vs. The cats; here, both are accepted.
+
+      Using the same examples as above, both have determiners that also
+
+      denote the gender. Using strictly Enfant/Enfants are ungrammatical.
+
+        Nouns can be the subject of the sentence
+
+
+Nouns can carry other suffixes or endings that add some grammatical
+
+information to the noun. For example, the suffix -s indicates plurality when it
+
+attaches to a noun. For example, in the word pencils, the ending/suffix -s
+
+makes the noun ‘pencil’ plural. The suffix ‘s also attaches to nouns to add some
+
+grammatical information. In this case, the ‘s signifies possession. For example,
+
+in the phrase ‘John’s glasses’, the ‘s has attached to the noun ‘John’ and marks
+
+possession.
+
+
+Summary of Nouns
+
+
+Noun (N)
+
+
+     Nouns are variable; They can change in terms of number/plurality
+
+       features in English
+
+         Cat vs Cats; here, the plural marker -s signifies plurality in English
+
+     Nouns can take determiners
+
+        The cat vs. The cats; here, both are accepted.
+
+     Nouns can be the subject of the sentence
+
+
+
+
+
+       In this course, we will consider pronouns (he, she, it, etc.) as nouns
+
+Subject: I, you, he/she
+
+          Direct Object: me, you, him/her, us, you, them
+
+           Indirect Object: Same as English
+
+          Demonstratives: this/that, these/those
+
+          Possessives: mine, yours, his, hers, etc.
+
+3.1.2. Verbs and Verb Phrases
+
+3.1.2.1. What are Verbs?
+
+In chapter two you learned that verbs belong to lexical categories. Verbs
+
+usually indicate the action of the sentence; however, verbs may also express
+
+perception, mental states or connecting functions. The first group are called
+
+action verbs while the second group are called state verbs. Now consider the
+
+following verbs. Determine which of these verbs are action verbs and which
+
+ones are state verbs.
+
+3.1.1.3. Types of Verbs
+
+Verbs can differ based on their function. Some verbs are main verbs and some
+
+verbs are helping verbs or auxiliaries. Helping verbs include regular
+
+auxiliaries and modal auxiliaries. Main verbs express actions or states of being
+
+and may occur independently. Helping verbs support main verbs and cannot
+
+occur independently. Therefore, based on their function, verbs are classified as
+
+below:
+
+
+I. Main
+
+II. Helping or auxiliary verbs
+
+a. regular auxiliaries (BE, DO, HAVE)
+
+b. modal auxiliaries (can, could, will, would, shall, should, may, might, must,
+
+etc.)
+
+
+The three regular auxiliary verbs in English are BE, DO and HAVE. In the
+
+following sentences, the regular auxiliaries are underlined while main verbs
+
+are italicized.
+
+
+a. Our neighbours are mowing the lawn.
+
+             AUX=BE
+
+
+b. He did not get any sleep last week.
+
+   AUX=DO
+
+
+c. The students have not submitted their assignments yet.
+
+          AUX=HAVE
+
+
+Note: if regular auxiliaries are the only verbs in the sentence, they are
+
+considered main verbs. This is shown in the following sentences:
+
+
+a. I had lunch at 2pm.
+
+b. The students did their homework.
+
+c. The guests are in the lounge.
+
+d. I am exhausted.
+
+e. I have two cats. (here have means ‘own’, so it is not an auxiliary)
+
+f. I did the house work.
+
+Moreover, there is another evidence for these verbs to function as the main
+
+verb in the above sentences. In order to create a question or make these
+
+sentences negative, we need to insert an auxiliary. This indicates the fact that
+
+these verbs are the main verbs:
+
+
+Try making the above sentences negative
+
+
+a. I did not have lunch at 2pm.
+
+Now create questions for the above sentences:
+
+
+a. Did you have lunch at 2pm?
+
+Modal auxiliaries are helping also verbs that occur in conjunction with a main
+
+verb; however, unlike auxiliaries, modals carry some meaning. Below are some
+
+examples which contain English modal auxiliaries. The modal auxiliaries are
+
+underlined while main verbs are italicized.
+
+
+a. You must stop at the red light.
+
+b. It might rain tomorrow.
+
+c. He should see a doctor.
+
+
+Can you tell the meaning of the modals in the above sentences? Yes, in the first
+
+sentence, the modal ‘must’ conveys obligation. In the second sentence, the
+
+modal ‘might’ means probability, and in the third sentence ‘should’ suggests
+
+advice.
+
+
+Note that helping verbs might be entirely absent in a sentence. Consider the
+
+following example:
+
+
+a. She ran.
+
+b. They left the office early.
+
+
+In the above two sentences, there are two main verbs: ran and left. There are
+
+no helping verbs.
+
+
+Question: If there are more than one auxiliary or helping verb in a sentence,
+
+can you determine the order of the helping verbs with regards to the main
+
+verb?
+
+
+HINT: Check the following sentences:
+
+
+a. They might have arrived.
+
+b. She will be doing her thesis.
+
+c. The books might have been stolen.
+
+Correct! This is the order of helping verbs when we have more than one in a
+
+sentence:
+
+
+   a. First comes the modal auxiliary
+
+
+   b. Next comes any form of HAVE
+
+
+   c. Then comes a form of BE
+
+
+   d. Finally comes the MV
+
+
+Here are more example:
+
+
+   a. They might make it public. (Modal+ MV)
+
+
+   b. They might have seen it. (Modal + HAVE + MV)
+
+
+   c. They might have been arrested. (Modal+ HAVE+BE+MV)
+
+
+As you may have noticed regular auxiliaries HAVE, BE and DO can have
+
+different forms depending on the context. These are the different forms of the
+
+English auxiliaries:
+
+
+HAVE: have, has, had
+
+
+BE: am, is, are, was, were
+
+
+DO: do, does, did
+
+
+These different forms depend on the subject and tense of the sentence. Can
+
+you tell when we use the auxiliary ‘was’?
+
+
+Correct! When the subject is third person, and the action occurred in the past
+
+as in:
+
+was I      crossing the street when a car hit me.
+
+
+4. Verb Forms
+
+
+Verbs can have different forms. Some verbs are called bare infinitives. A bare
+
+infinitive (the base form) is one that is used without the word to and is often
+
+used with modals auxiliaries (can, could, will, would, shall, should, may, might,
+
+must).
+
+
+         comea. He might       to the party
+
+        bare infinitive
+
+
+In the above sentence, the verb form ‘come’ is called bare infinitive (verb
+
+without to).
+
+
+The second verb form is what we call present participle form of the verb. We
+
+form the present participle of the verb by adding the suffix-ing to the base of
+
+the verb. In the following sentence, the main verb driving is a present participle
+
+form. Note that present participle forms come after auxiliary BE.
+
+
+b. They will be driving to us.
+
+         Present participle
+
+
+The other verb form that you are going to learn is past participle. The past
+
+participle form of the verb occurs mainly after the auxiliary HAVE and
+
+sometime BE is often formed by adding the suffix –ed or –en to the base form
+
+of the verb. Note that some past participles do not follow this rule and may
+
+have an irregular form which is not usually predictable.
+
+
+c. We have eaten lunch.
+
+      Past participle
+
+
+d. The house should be sold .
+
+                    Past participle
+
+And the last form of the verb that we are going to discuss here are the infinitive
+
+form of the verb that occur with the word to as in to go, to run, to sleep.
+
+5. Subjects and Predicates
+
+Now that you are familiar with nouns and verbs, let us discuss how nouns and
+
+verbs may function in a sentence. Every complete sentence contains two parts:
+
+a subject and a predicate. The subject is what or (whom) the sentence is about.
+
+The predicate tells something about the subject. To identify the subject of a
+
+sentence, first find the main verb in the sentence. Then make a question by
+
+placing ‘who’ or ‘what’ before it. Consider the following example:
+
+
+John and Sarah run on the beach every morning.
+
+
+Now ask yourself: Who run(s) on the beach every morning? John and Sarah.
+
+
+Therefore, John and Sarah is the subject of this sentence. The remaining part
+
+of the sentence ‘run on the beach every morning’ is called ‘predicate’. Notice
+
+that subjects are noun phrases and predicates are verb phrases. Therefore, a
+
+sentence contains two main phrases: Noun phrase (subject) + Verb Phrase
+
+(predicate)
+
+
+Let’s look at more examples and identify their subjects.
+
+
+Example: She spilled the milk on the floor.   Who spilled the milk?
+
+She=subject=NP
+
+d. A piece of chocolate candy would taste great.
+
+Now what is a predicate? A predicate is the part of the sentence that contains
+
+the verb and tells us something about the subject. Predicates are also called
+
+verb phrases. A predicate may be one or more words. If a predicate is just a
+
+single word, that word must be the verb. For example, in the following
+
+sentence, our predicate contains one word, that is the verb.
+
+
+a. She [ran].
+
+
+b. Everyone [laughed].
+
+
+The subject is ‘she’ in sentence (a), and the subject in the second sentence is
+
+‘everyone’.
+
+
+A predicate can be more than one word, for example, the verb and any
+
+auxiliaries. Consider the following examples:
+
+
+a. They [will arrive].
+
+b. They [are coming].
+
+
+c. She [has left]
+
+
+In the above sentences, the predicate consists of an auxiliary and the main
+
+verb. In some cases, the main very may be followed by other elements
+
+including the object of the sentence or any adverbs that may follow. This is
+
+shown in the following examples:
+
+
+a. They [moved their seats].
+
+
+They=subject; NP
+
+
+Moved their seats=Predicate; VP
+
+
+b. The students [have never experienced it].
+
+
+The student=subject: NP
+
+Have never experienced=predicate; VP
+
+
+c. The girl who is sitting at the corner [will meet you later].
+
+   The girl who is sitting at the corner=subject; NP
+
+    Will meet you later: predicate; VP
+
+
+Important Notes:
+
+
+a. A sentence may have a compound subject. What is a compound subject? A
+
+compound subject is a simple subject made up of more than one noun or
+
+pronoun. For instance, in the sentence, Team pennants, rock posters and family
+
+photographs covered the boy's bedroom walls, the underlined part is the
+
+subject of the sentence. Now, let’s look at another sentence:
+
+
+My uncle and I walked slowly through the art gallery.
+
+What is the subject in this sentence? Why is it a compound subject?
+
+How about this sentence? Our babysitter and her friend arrived late.
+
+b. Compound subjects contain more than one noun phrase. For example, the
+
+subject of the following sentence contains 3 noun phrases:
+
+
+[John and Sarah]NP [could not figure out the answers.] VP
+
+
+Here, the compound subject, John and Sarah, contains 3 noun phrases: John,
+
+Sarah, John and Sarah. [[john]2 and [Sarah]3]1 Note that compound subjects
+
+usually contain the conjunction ‘and’ as in [A and B].
+
+6. Main verbs and Auxiliaries
+
+Now that you are familiar with different verb forms and predicates, let us
+
+discuss main verbs and helping verbs in more detail. The most important
+
+element of a predicate or verb phrase is the main verb. The main verb is the
+
+head of a verb phrase. Therefore, if there is phrase which contains a verb, that
+
+phrase is a verb phrase. The verb phrase or predicate tells us what the subject
+
+does or is like. As mentioned earlier, the main verb can be on its own in a
+
+sentence as in ‘I ate all the cookies’ or it can be preceded by a helping verb as in
+
+‘I have eaten all the cookies’. Now what are helping verbs? How do they help
+
+the main verb? Let us review them again:
+
+
+III. Main
+
+IV. Helping or auxiliary verbs
+
+Modal (Auxiliaries) can, could, shall, should, will, would, may, might, must
+
+Regular Auxiliaries
+
+HAVE has, have, had
+
+BE am, is, are, was, were, (be, being, been)
+
+DO does, do, did
+
+
+Let’s start with modals. Modals do not inflect to show tense like ordinary verbs
+
+or regular auxiliaries. They are the group of helping verbs that help with the
+
+meaning of the main verb. For example, the modal ‘can’ is used to refer to
+
+someone’s ability as in ‘She can sing’. Or the modal ‘might’ refers to ‘a rather
+
+weak potentiality’ as in ‘It might rain tomorrow’. Note that modals can have
+
+multiple meanings. For example, the modal ‘can’ can also be used for
+
+permission as in ‘you can leave if you want’. Below you can see some of the
+
+different meanings of modals:
+
+
+Can ability, permission
+
+
+Could ability, permission, potentiality
+
+
+May permission, potentiality
+
+
+Might permission, potentiality
+
+
+Will promise, certainty, command, future time
+
+
+Would past habit
+
+
+Shall promise, command, future time
+
+
+Should weak obligation, possibility
+
+
+Must strong obligation, deduction
+
+
+Question: Can you give an example for the meaning of each modal in the
+
+above list?
+
+Note that all of the above modals are followed by the base form of the verb
+
+that is bare infinitive which is also considered non-finite.
+
+
+Regular auxiliaries on the other hand have a different function. Consider the
+
+following examples where have and be appear as auxiliary verbs before the
+
+main verb.
+
+
+a. She has already left.
+
+
+b. They have paid for taxes.
+
+
+c. We had received the package before they called us.
+
+
+d. The students are studying their lessons.
+
+
+e. It is going to rain.
+
+
+Regular auxiliaries (HAVE, DO, and BE) occur with the main verbs to support
+
+them. When auxiliaries are present, the verb occurs in its non-finite form. For
+
+example, in the above sentences, the main verbs left, paid, received, studying
+
+and going are non-finite forms. How do we know the tense of the verb then?
+
+Yes, the auxiliaries can tell us whether the action happened in the past, is
+
+happing now or will happen in the future. Can you tell the tense in each of the
+
+above sentences?
+
+
+Here are the answers:
+
+
+a. She has already left. Present (has is present)
+
+
+b. They have paid for taxes. Present (have is present)
+
+
+c. We had received the package before they called us. Past (had is past)
+
+
+d. The students are studying their lessons. Present (are is present)
+
+e. It is going to rain. Present (is is present)
+
+
+Once again, auxiliaries carry no meaning of their own. It is the main verb that
+
+carries the meaning of the action or the state. In the above sentence, the main
+
+function of auxiliaries is to signify the time of the action since the non-finite
+
+form of the verb carries no time. For example, in (a) and (b), the auxiliaries have
+
+and has tell us that the time is present while in (c), the auxiliary had indicates
+
+past. In (d) and (e), the auxiliaries are and is indicate present time.
+
+
+Note that auxiliaries (HAVE and BE) and modals have another function. They
+
+are used to create a question or make a sentence negative. When there is no
+
+auxiliary present in the sentence, we use DO to create a question or make the
+
+sentence negative.
+
+7. HAVE, BE and DO as Main Verbs
+
+In all of the examples above, have, be and do appeared only as auxiliary verbs.
+
+However, unlike modals, regular auxiliaries can be used as main verbs. This
+
+means HAVE, BE and Do can have two functions: auxiliaries OR main verbs.
+
+Consider the following examples:
+
+
+a. The book is on the shelf. Be is the main verb as it is not followed by any other
+
+verbs.
+
+
+b. I did my homework. Do is the main verb as it is not followed by any other
+
+verbs.
+
+
+c. I have a new guitar. HAVE is the main verb as it is not followed by any other
+
+verbs.
+
+
+There are three reasons why BE, DO, and HAVE are the main verbs in the above
+
+sentences. First, they are not followed by any other verb in the sentence. Also,
+
+for BE and HAVE, we can use the auxiliary DO to ask a question. Finally, we can
+
+use the auxiliary DO to make these sentences negative.
+
+a. The book is on the shelf.
+  Is-   the book on the shelf?
+             is not- The book     on the shelf.
+
+
+b.  You did your homework.
+
+- Did you do your homework?
+
+-  I did not do my homework.
+
+
+c. I have a new guitar.
+
+- Do you have a new guitar?
+
+- I do not have a new guitar.
+
+
+Note that BE is an exception in this case. To make the sentence negative, we
+
+add ‘not’ after the main verb be. To ask a question, we simply invert the subject
+
+and the main verb be.
+
+
+========================================================================
+WEEK 5 - Syntax II: Sentence Structure
+========================================================================
+Adjective Phrases
+
+An adjective phrase (AdjP) has an adjective as its head. The head of an adjective phrase can
+
+be preceded by modifying elements called intensifiers. Intensifiers are also known as
+
+adverbs of degree or qualifiers. The following phrases are adjective phrases that are
+
+preceded by adverbs of degree or intensifiers: Note: the head of the phrase is underlined.
+
+
+The intensifier/adverb of degree is bolded.
+
+
+a. Extremely hot
+
+b. Very delicious
+
+c. So selfish
+
+d. Quite interesting
+
+e. Fairly easy
+
+
+An AdjP can function:
+
+
+                        →a. as a modifier within a noun phrase (attributive adjective)   the sad man (here, the sad
+
+man is a noun phrase, and the adjective phrase ‘sad’ is modifying the noun ‘man’
+
+attributively.)
+
+→b. as a predicative complement in a verb phrase (predicative adjective)   the man is sad
+
+(here, the adjective phrase ‘sad’ is modifying the noun phrase functioning as the subject of
+
+the sentence ‘the man’.
+
+
+This is a predicative adjective since it follows the linking verb ‘be’ and, therefore, modifies
+the subject of the sentence→ the man=sad. These type of adjectives are called predicative
+
+adjectives or subject complements.)
+
+
+Note1: in both cases, the AdjP ascribes a property. Therefore, if adjective phrases occur in
+
+the NP, they are attributive. b. If they occur as complements after linking verbs, they are
+
+predicative.
+
+
+Note2: adverbs of degree or intensifiers modify the head to provide information about
+
+degree and commonly occur before the head (which is an adjective) as in relatively efficient.
+
+Adverb Phrases
+
+Just the way an adjective is the head of an adjective phrase, an adverb phrases takes an
+
+adverb as its head. Adverb phrases typically modify a verb within a predicate/verb phrase.
+
+Adverb phrases may occur in many different types. For example, quickly as in the smart
+
+student quickly finished the test. is an adverb of manner that modifies the verb ‘finished’.
+
+
+The majority of adverbs can occur in several positions within a clause. For example, in the
+
+above sentence, the adverb phrase quickly can be placed at the end of the sentence: the
+
+smart student finished the test quickly. Mobility is one of the properties of many adverb
+
+phrases. Note: the normal position of an adverb phrase is immediately following the verb or
+
+at the end of a sentence. Sometimes, for emphasis, we move adverbs around within a
+
+clause. This is one of their most distinctive characteristics. Also, compared to nouns and
+
+verbs, adverbs (and adjectives) are not essential to the clause. They are optional modifiers!
+
+Sometimes, adverbs are preceded by an adverb of degree/intensifier/qualifier. We saw this
+
+property for adjectives as well. Therefore, an adverb phrase consists of an adverb as its head
+
+and optional modifiers that are called adverbs of degree/intensifier/qualifier. Therefore, the
+
+following phrases are adverb phrases with optional intensifiers: Note: the adverb (the head)
+
+is underlined and the intensifier is bolded. a. Very forcefully (AdvP) b. More surprisingly
+
+(AdvP) c. So carefully (AdvP)
+
+
+Adverbs can carry different functions based on the kind of information they provide:
+
+
+a. Sentence adverbs (modify the whole clause) Most surprisingly, she passed the test!
+
+Obviously, she is not happy with the results. Sentence adverb phrases express the speaker’s
+
+or the writer’s attitude to the content of the sentence. They are normally placed at the
+
+beginning of the sentence and are separated from the rest of the sentence with a comma.
+
+
+b. Adverbs of degree (modify adjectives and other adverbs)
+
+
+a. Incredibly fast
+
+b. So sweet
+
+c. Too slowly
+
+d. Very boldly
+
+
+Here, the bolded words are adverbs which are modifying other adverbs (a, c, d) or other
+
+adjectives (a and b). These are also known as intensifiers or qualifiers. c. Adverbs of manner
+
+(how?) Tell us about the way something happens or is done. The children ran reluctantly.
+
+How? Reluctantly! She waited anxiously. How? Anxiously! d. Adverbs of time (when?) Tell us
+
+when something happens. The teachers arrived yesterday. When? Yesterday! e. Adverbs of
+
+place (where?) Tell us where something happens or where something is. Your neighbour is
+
+waiting outside. Where? Outside! f. Adverb of frequency (how often?) Tell us how often
+
+something happens. Example: always, usually, often, sometimes, rarely, barely, never, etc.
+
+Him and I meet frequently at the station. How often? Frequently!
+
+
+Adjective (Adj)
+
+
+       Adjectives can be found before or after the noun.
+
+         Le bateau rouge vs Le rouge bateau; both are grammatical, but the positioning is
+
+           different. With bateau meaning boat and rouge meaning red, we see [A N] and [N
+
+          A] being accepted as correct.
+
+Adjectives can be modified by the adverb very/très
+
+         Very good (très bien)
+
+
+Adverb (Adv)
+
+
+      Adverbs are invariable.
+
+      Adverbs cannot appear next to a noun.
+
+
+Preposition (P)
+
+
+      Prepositions are invariable.
+
+      Prepositions are mandatory; when creating a phrase that requires a preposition, you
+
+      cannot drop the preposition and consider that phrase to be prepositional.
+
+          the counter cannot mean above the counter if the preposition above is not
+
+         present in the phrase.
+
+Correct: (b) – A noun! Although play is often used a verb, notice how in the sentence above it
+
+is preceded by a determiner and an adjective, both of which are good indicators that a noun
+
+is following.
+
+Identifying Functional Categories
+
+Determiners (Det)
+
+
+Determiners come in 4 types
+
+
+       Articles (Definite or Indefinite): a/an, the
+
+      Demonstrative: this/that, these/those
+
+      Possessive: my, your, his, her, its, etc.
+
+       Indefinite: some, every, each + N
+
+
+Auxiliary Verbs (Aux)
+
+
+Auxiliary verbs (or auxiliaries for short) are considered helping verbs. While some auxiliaries
+
+function as regular verbs, in order to qualify as an auxiliary, the element must be followed
+
+by a main verb. Here are a few examples of auxiliaries: be, have, do, must, should, could,
+
+etc.
+
+
+Degree Words (Deg)
+
+
+Although degree words are often called degree adverbs, we will treat these as a separate
+
+functional category. Degree words often modify, show intensity or type of adjectives and
+
+adverbs. In the cases of ‘so beautiful’ and ‘extremely quickly’, so and extremely precede
+
+either an adjective or an adverb, as well as indicate how intense these descriptors are.
+
+
+Question
+
+
+Both an adjective and a determiner can appear before a noun. We can distinguish between
+
+the two because:
+
+a. A noun cannot take more than one adjective
+
+b. A noun cannot take more than one determiner
+
+c. It depends on the situation
+
+
+Correct: (b) – A noun cannot take more than one determiner. While a noun can be described
+
+by a multitude of adjectives directly before it, a noun will never take more than one
+
+determiner. We can always say ‘a big angry brown dog’ whereas *‘a that some fish’ is
+
+ungrammatical.
+
+
+Speaking with intent is not just syntactic categories strung together and a meaning is
+
+produced. Conveying a message requires structure of the syntactic categories into a piece
+
+that has a solid meaning. In this lecture, you will learn about what makes a sentence a
+
+sentence, what parts constitute a sentence, and how verbs play a huge role in sentence
+
+creation.
+
+Sentence and Sentence Parts
+
+A sentence is known to be a “a group of words or phrases having a subject and a predicate,
+
+while conveying a complete thought; a phrase with meaning” An example of a sentence
+
+would be: “I love my boyfriend,” where I is acting as the subject and love my boyfriend acts
+
+as the predicate. But what exactly are subjects and predicates of a sentence? What are they
+
+made of?
+
+
+Subject
+
+
+The subject of the sentence is commonly known as the doer of the action, the focus of the
+
+sentence, or the one that is talked about in the sentence. Syntactically speaking, subjects
+
+are usually (but not exclusively) considered to be NPs or pronouns:
+
+
+(1) [The flower] was dyed red by the paint in that bucket.
+
+[The man in a purple shirt] takes a walk every morning.
+
+[Cassandra] plays tennis.
+
+[We] occupied the terrace all summer long.
+
+Correct: (c) – The pretty young lady! This entire phrase is considered a subject. When
+
+identifying subjects, make sure to consider the noun with any modifiers that precede or
+
+follow it. In this case, adjectives pretty and young are directly related to the noun lady.
+
+
+Predicate
+
+
+The predicate of the sentence is usually what is said about the subject¸ what the doer of the
+
+action is doing or what is currently happening that involves the subject. Syntactically,
+
+predicates are always VPs when a meaning is present and intended by the speaker/writer. In
+
+the previous examples, anything after the subject is considered the predicate of that
+
+sentence.
+
+
+Now that subjects and predicates have been established, let’s tackle the part in the meaning
+
+of a sentence where it says conveying a complete thought. Going into semantics a bit, this
+
+simply means that when the word is processed in your mind, an image, whether static or
+
+dynamic, is produced and has a solid or understood meaning. Note that another appended
+
+meaning is affixed: a phrase with a meaning. If a sentence is a phrase with a meaning, what
+
+is a phrase? Simply put, it is a string of words without a significant or solid meaning.
+
+However, in Syntax, a sentence is still considered a phrase. Here are some examples of
+
+phrases:
+
+
+(2) Spinning the
+
+    In my
+
+   Watering
+
+   People who work hard
+
+   Standing above
+
+
+Knowing how sentences work now, how do we apply the syntactic categories we learned
+
+from before? How do we know which phrases to stick together to create a sentence, a
+
+phrase with a stronger meaning? How do we prove a phrase has a meaning? All the
+
+questions can be answered by the using constituents.
+
+Constituents and Constituency Tests
+
+What are constituents and what does it mean to have constituency? Constituents is a new
+
+term for something you have learned before. It is also known as (syntactic) phrases. And by
+
+combining syntactic phrases, we are able to create a full grammatical clause (a sentence, as
+
+it were). The categories are group together succinctly into smaller, manageable groups, and
+
+with those groups, create the full, intended sentence. In essence:
+
+
+ Constituent(s): a word or group of words that can ONLY function as a syntactic unit.
+
+Constituent(s): a word or group of words that can ONLY function as a syntactic unit.
+
+
+Consider this grouping or arrangement of words:
+
+
+[SENTENCE [SUBJECT [The [quick [brown [fox]]] [PREDICATE [jumps [over [the [lazy [dog.]]]]]]
+
+
+At a glance, the phrase seems to make sense and the grouping almost feels the most
+
+perfect. But how can we assure ourselves that this notion or grouping is correct? Why does
+
+the grouping feel weird or unintuitive if we shuffled the brackets randomly? One of the tools
+
+we need are called Constituency Tests.
+
+There are 3 tests that is used widely by syntacticians: Substitution Test, Question Test, and
+
+Movement Test.
+
+Substitution Test
+
+If you can replace one word or group with a single word, then the selected text is probably a
+
+constituent. (Hint: try to replace the selected text/phrase with a word that is "similar" to the
+
+syntactic category of the original text.) For instance:
+
+
+(3) The fruits of my loins hate me with a passion.
+
+   They hate me with a passion.
+
+
+(4) The fruits of my loins hate me with a passion.
+
+   The fruits of my loins do so
+
+
+Elements that do not form a constituent cannot be replaced in this way. Thus, there is no
+
+word in English that we can use to replace hate me, for example, or of my.
+
+Question Test
+
+Following the steps of the Replacement test, you essentially remove the constituent-in-
+
+question and see whether the selection can be used as a response to a question. If so, then
+
+it is probably a constituent.
+
+
+(5) Death opens at the close of your life.
+
+Who/what opens at the close their life/lives? Death
+
+The children stopped at the corner.
+
+Where did the children stop? At the corner
+
+Movement Test
+
+If the selected constituents are able to be moved around in the sentence, then it is probably
+
+a constituent. (Hint: Try moving the constituents to the front the sentence and see if the
+
+sentence maintains its grammaticality.)
+
+(6) Death opens at the close of your life.
+
+   At the close of your life, Death opens.
+
+
+(7) The children stopped at the corner.
+
+   At the corner, the children stopped.
+
+Verbs and Verb Types
+
+Verbs are important in sentence structure because they are the bridge or link from the
+
+subject to the predicate. Almost every predicate is led by a verb. However, depending on the
+
+bridge, there maybe more than one connection. This is where verb types come in. Generally,
+
+there are 3 types of verbs: intransitive, transitive and ditransitive verbs. Transitivity is a
+
+property of all verbs to take an object (or complement) to be considered grammatical.
+
+Intransitive Verbs
+
+These verbs are generally those that do not take an object. Examples are She died., Maria
+
+ate, I run, and the ever-famous, Jesus wept. We can add on more constituents after the main
+
+verb, but those are all options that can be left out. Intransitive verbs are not as common as
+
+transitive verbs, but most of them are when in the past tense.
+
+
+Consider the word eat. In the present tense, we need to specify what the subject is eating
+
+since the action of eating requires someone doing something to something else. In this
+
+case, it is transitive in the present tense.
+
+Transitive Verbs
+
+These verbs are the most common since they take one object. Most of the examples that
+
+have been shown so far are transitive verbs, except for a few the requires a semantic image
+
+of movement or aid.
+
+Ditransitive Verbs
+
+These are not as common as the previous two types, but they are still prominent in
+
+language use. Verbs like put, help, give, send, and tell require two objects to be grammatical.
+
+Correct: (a) – Intransitive! Verbs such as sneeze and yawn are always intransitive. These
+
+types of verbs cannot take objects (*John yawned the cake, etc.).
+
+
+========================================================================
+WEEK 6 - Syntax III: Phrase Structures
+========================================================================
+Phrase Structures
+
+Building on the knowledge of constituents and their structures, we now tackle
+
+the idea of representing correct structure of grammar. From what we have seen
+
+so far, only the bracketed diagram evident, but, if you have a sentence that is
+
+about 13 000 words long, you cannot expect to be organized and understand
+
+the concept properly. Another form of diagrammatic expression that has been
+
+proposed is called the binary tree representation where you have nodes and
+
+layers that separate each grouping in a more systematic way. Most
+
+syntacticians prefer the latter due to efficiency and organization.
+
+Bracketed Diagrams
+
+Consider this sentence:
+
+
+
+
+
+This sentence is already getting a little crazy, and you only have one verb
+
+involved. The way to read the diagram involves XP [X … ], such that X is the
+
+category, and the “…” represent everything that involves is part of the syntactic
+
+category, as seen in [PP [P over] [NP [D the [AP [A lazy] [N dog]].
+
+
+Tree Forms
+
+Binary trees are a downward-sloping diagram that begins with a (parent) node
+
+and then branching out to daughter nodes. Each node then can be considered
+
+a parent node, if and when, it spread to two more daughter nodes, and so on.
+
+We need rules that guide and restrict us so that we do not generate the wrong
+
+"tree" or intended meaning. The following subsection will guide us into getting
+
+the right tools to generate the correct tree by exploring the parts (constituents)
+
+and breaking them down into their simple rules to grammaticality. We will only
+
+tackle English examples, therefore the PSRs might differ per language studied.
+
+So, what are Phrase structure Rules (PSRs)? Well PSRs are essentially the
+
+rules that dictate the construction of a phrase/ constituent structure.
+
+Looking back at the constituency tests, you will soon find out why changing
+
+the groupings of the words is ungrammatical. The format of PSRs are as
+
+follows:
+
+
+
+
+
+Here, XP and X are the same as before. Y, Z and AA are other categories. “+”
+
+means repetition of the same category and “( )” means optionality. Elements in
+
+the PSR without other attachments are to be considered necessary.
+
+
+From what we know, a typical sentence will have a subject and a predicate.
+
+Using previous knowledge from the previous chapters, we know a sentence is
+
+generally made up of a subject and a predicate, provided that both are
+
+constituents. So how will the tree look like if we used the sentence above?
+
+
+Each node has a distinct label to it: The subject and predicates. Commonly, the
+
+noun phrase is a subject and the predicate is always the verb phrase, however,
+
+there are in-between phrases that aid the construction of more complex
+
+sentences like tense and complementizers/subordinate clauses. Tense
+
+Phrases (TPs) are a more general term that has tense (past, present, future,
+
+etc.) and is usually shown with overt auxiliaries or inflectional morphemes.
+
+Complementizer Phrases (CPs) are triggered by a key word (the
+
+complementizer) and is generally followed by another sentence or tense
+
+phrase.
+
+
+If a full sentence can be broken down into these trees, then by induction, the
+
+steps should apply to its smaller components. And in fact, we will investigate
+
+together what the rules are for the smaller syntactic categories, and how to
+
+create them.
+
+Noun Phrases (NP)
+
+Nouns are known to be the most concrete among the categories. It is the
+
+second most versatile category, next to verb phrases. The PSR for nouns are as
+
+follows:
+
+
+
+
+
+(1) Another coin
+
+(2) His childish behaviour
+
+(3) Their cake with a pink bow
+
+
+
+
+
+Adjective Phrases (AdjP)
+
+Adjectives heavily rely on where it attaches. They need nouns to be an anchor
+
+for them to maintain grammaticality. Only Adverbs can attach to Adjectives to
+
+modify it. Here is the rule:
+
+(4) Green book
+
+(5) Very yellow umbrella
+
+Adverb Phrases (AdvP)
+
+As with the adjectives, adverbs need to anchor themselves to a more solid
+
+category. In this case, adverbs attach to verbs. Like to adjectives, adverbs
+
+cannot stand alone.
+
+
+
+
+
+(6) Dani sent mail to her mom very frequently
+
+(7) Time passes really slowly in the Feywild.
+
+(8) My hamster died quickly
+
+Prepositional Phrases (PP)
+
+Rather simple PSR since there is nothing much. PPs need the main preposition,
+
+which is also known as the head of the phrase. PPs also need a mandatory
+
+Noun Phrase:
+
+
+
+
+
+(9) I found those cases up on the stairs.
+
+(10) My kitten was on the tree earlier today.
+
+Verb Phrases (VP)
+
+Verb phrases create the whole chunk that is the predicate of the sentence. That
+
+is the reason why it will have the most components.
+
+
+
+
+
+Simply combining a complex NP and a complex VP can create longer sentences
+
+due to the properties of optionality (+).
+
+Clause (Cl)
+
+A clause is also known as the “Sentence”. Clauses can contain multiple
+
+embedded clauses within them, but for the purposes of this course we will
+
+focus on simple constructions. A simple clause typically contains a noun
+
+phrase and verb phrase which correspond to the subject and the predicate.
+
+Movement and Structure: Question
+Formation
+
+Now that basic sentence structure is made, how do these structures explain
+
+other types of sentence? Imperative sentences are like declarative sentences
+
+where the type of verb (semantically) is different. What about interrogative
+
+sentences? How are they formed? We know that simply moving the auxiliary, if
+
+overt, to the front of the sentence creates a question (commonly known as
+
+yes-no questions, where the answer is either yes or no). Another type of
+
+interrogative sentence is the WH-question where the beginning of the
+
+question starts with a wh-word (like who, what, when, why and how) and the
+
+answer can be found within the sentence, or the answer refers to something in
+
+the original sentence. So how do you create questions? As mentioned before,
+
+movement is what creates the statement into questions.
+
+
+There are two sets of structures that show pre-movement and post movement.
+
+Deep Structure is the “statement”-version of a question. This is also known as
+
+the pre-movement structure. Surface Structure is the final form, or post-
+
+movement structure of the statement turned question.
+
+Yes-No Question Transformation
+
+Of the four clause types, interrogatives are the most challenging. The other
+
+three types are straightforward and can be learned by simply reading the
+
+textbook and watching the weekly video. So far we have discussed declarative
+
+clauses. Declarative sentences make statements. In contrast, we have
+
+interrogative sentences which ask questions. There are two main kinds of
+
+interrogative sentences: I. Yes-No Questions (it seeks a yes or no answer): Did
+
+you bring the wine? The above question tests the truth of an assertion that
+
+someone may have brought the wine, and the answer is yes or no. II. Wh-
+
+Questions (it begins with an interrogative word(wh-word) and asks for missing
+
+information) Who did you talk to? The above sentence asks the listener to
+
+supply some missing information, in this case, the object of the sentence.
+
+Yes-No Questions
+
+                  →If there is an auxiliary present in the sentence   A yes-no question is formed
+
+by moving the auxiliary to the beginning of the sentence: a. He has been
+
+working hard. Has he been working hard? b. She could arrive on time. Could
+
+she arrive on time? c. They are returning home. Are they returning home? If
+
+there is more than one auxiliary, the first auxiliary is moved to the front of the
+
+sentence as in (a) above. This process is called Subject-Auxiliary Inversion!
+
+
+If there is no auxiliary present in the sentence:
+
+
+         →a. The main verb is BE   simply move be to the front of the sentence:
+           → He is my favorite student.    Is he my/your favorite student?
+
+
+Here the verb be appears at the beginning of the sentence where we would
+
+expect an auxiliary.
+
+
+           →b. The main verb is NOT BE  DO is inserted as an auxiliary. Depending on the
+
+tense of the sentence and the person, we use do, does, and did.
+
+
+a. Sandy reads the book.      Does Sandy read the book?
+
+b. Sandy read the book.       Did Sandy read the book?
+
+c. They read the book.         Do/Did they read the book?
+
+
+As mentioned before, a Yes-No transformation is a simple manipulation of the
+
+placing of the auxiliary, or T-head.
+
+
+Surface Structure:
+
+
+1. Has my aunt left?
+
+2. Should Carissa and her friends give money to the church?
+
+3. Did they leave?
+
+
+Deep Structure:
+
+
+4. My aunt has left
+
+5. Carissa and her friends should give money to the church.
+
+6. They left
+
+If there is an overt auxiliary, Yes-No transformations (also known subject-aux
+
+inversion) are simple.
+
+
+What about the last few examples? There is no overt auxiliary and yet a
+
+transformation has been applied. We call this insertion of the did, is known as
+
+do-insertion. This technique is applied to the transformation by inserting the
+
+appropriate do or did to the T-head (as an auxiliary) and applying the
+
+transformation.
+
+Wh-Questions
+
+Wh-questions are different from yes-no questions in two ways: a. They ask for
+
+missing information rather than confirmation or denial b. They start with a wh-
+
+word (who, whom, which, why, when, where, what, whose, etc.) Let’s look at a
+
+few examples of wh-questions: a. Who left early? (missing information: subject
+
+of the sentence) b. Who/whom did you call? (missing information: object of the
+
+sentence) c. Where has he gone? (missing information: place) d. When are you
+
+returning? (missing information: time) e. Why are you bored? (missing
+
+information: reason/purpose) f. What will you do? (missing information: object
+
+of the sentence) In all of the above sentences, the wh-word stands for the
+
+information that the question seeks.
+
+
+Here is a summary of wh-words:
+
+
+a. What person? Who/whom
+
+b. What nonhuman thing? What
+
+c. Which person or thing? Which, What (as determiners)
+
+d. What place? Where
+
+e. For what reason? Why
+
+f. At what time? When
+
+Let’s start with who when the missing information is the subject of the
+
+sentence:
+
+
+It’s easy to determine this one!
+
+
+                            →Replace the wh-word ‘who’ with ‘someone’ as in: Who ate the pizza?
+
+Someone ate the pizza.
+
+
+As you can see, who replaces the subject of the sentence. The same holds true
+
+for ‘what’ when it is in subject position:
+
+
+    →What fell?   Something fell.
+
+
+When the missing information is the subject of the sentence, DO is NOT
+
+required.
+
+
+When there is no auxiliary present: for other wh-questions where the missing
+
+information is not subject of the sentence, and there is no auxiliary or main
+
+verb BE, insert DO-just the way we did for yes-no questions:
+
+
+Who did you call?
+
+→         →a. Step 1: You called someone.   You called someone.   You called who.
+
+
+b. Step 2: move the wh-word to the front of the sentence: Who you called?
+
+
+c. Step 3: insert DO Who did you call?
+
+
+When there is an auxiliary or a main verb be, move the auxiliary of the verb be
+
+to the front of the sentence:
+
+
+           →a. The meeting is at noon.  When is the meeting? (the main verb is be)
+
+
+                    →b. They have seen a dead squirrel across the yard.   What have they seen?
+
+
+Note: when you ask about the object of the sentence, you can choose both
+
+who and whom. Which one is more natural to you:
+
+
+a. Who did you see?
+
+b. Whom did you see?
+
+
+Which one is prescriptively more correct?
+
+
+========================================================================
+WEEK 7 - Semantics
+========================================================================
+Introduction
+
+Semantics is the study of meaning in human language. Words become
+
+phrases when spoken together, and they provide meaning through their
+
+semantic relation.
+
+Word relations
+
+Synonyms are words or expressions that generally have the same meaning.
+
+Examples include remember/recall and big/large. Antonyms on the other
+
+hand are words that contain opposite meanings such as light/dark and
+
+up/down. Polysemy is when words have two or more unrelated meanings. For
+
+example, the word ‘mark’ has multiple meanings: an exam score (he got a good
+
+mark), a spec on something (the pencil left a mark), or a target (she hit the
+
+mark). Homophony is when words that sound the same have different
+
+meanings. For example, the word ‘light’ can mean both not heavy and
+
+illumination.
+
+What is meaning?
+
+Connotation
+
+Connotation is the relationship between words that can be activated with a
+
+word’s use. For example, the word winter activates words of ‘snow’, ‘cold’, ‘short
+
+days’, ‘frozen fingertips’ and the like. These associations make the word’s
+
+connotation, but it does not represent the meaning of the word.
+
+Denotation
+
+Denotation is the primary meaning of what a word represents and refers to.
+
+The denotation of the word winter for example, corresponds to the season
+
+between spring and fall, regardless of whether it is cold and unpleasant.
+
+Denotation, however is not the same as meaning. This is because there are
+
+words such as unicorn and phrases such as the present king of France, which
+
+have no referents in the real world, but still have meaning.
+
+
+Question: Can you give some examples of words that have different
+
+connotations? Think of the word ‘home’.
+
+Correct: (b) – Connotation! As mentioned in the previous section, connotation
+
+is the relationship between words and their organization in your brain. These
+
+words do not necessarily form the meaning of ‘lion’ but they help retrieve
+
+other related words faster.
+
+Extension and intension
+
+As seen in denotation, a word’s meaning is not equal to its referents. The words
+
+extension and intension are used to assist with the differentiation. An
+
+expressions extension corresponds to the entities in the world it can refer to,
+
+and an expressions intension corresponds to its inherent concept. For
+
+example, the extension of woman is a real-world entity (women) while its
+
+intension involves notions such as ‘female’ and ‘human’. Below is a table
+
+depicting extension and intension differences in phrases. (Table 6.5)
+
+
+
+
+
+The conceptual system
+
+Fuzzy concepts
+
+A fuzzy concept is a mental concept that doesn’t have a clear definition or
+
+boundaries. For example, the word rich has a fuzzy concept because richness
+
+is subjective. How much money is needed before someone is called rich? Other
+
+examples include tall, old, strong, genius, and bargain. Fuzzy concepts can also
+
+be graded in terms of their typicality. A fuzzy concept such as artist may refer to
+
+visual or musical art, and the typicality of which term will depend on the
+
+person reading the word. Concept gradedness is also affected by frequency.
+
+The concept of bird for example has different levels of gradedness where we
+
+feel that some birds are more birdlike than others. An ostrich, for example, is
+
+less typically thought of as a bird when compared to robins. Figure 6.2
+
+illustrates a graded structure of the concept bird.
+
+
+
+
+
+Examples like this suggest that concepts have an internal structure, with the
+
+best or most prototypical examples close to the core, and less typical members
+
+are placed in the farther regions.
+
+The lexicalization of concepts
+
+Lexicalization is the process through which concepts are encoded in the
+
+words of a language. In Inuktitut for example there are multiple words for snow
+
+as seen in Table 6.7
+
+
+
+
+
+ Inuktitut lexicalizes the concepts ‘falling’ and ‘snow’ in a single word (qana)
+
+while English uses two separate words. English on the other hand, has multiple
+
+words pertaining to the perception of light as seen in Table 6.8
+
+Both examples illustrate that languages can express similar concepts through
+
+different words and that lexicalization is different across languages.
+
+Motion verbs
+
+All languages have words that describe motion through space. For example
+
+English has come, go, and move. In other languages, there are systematic
+
+differences in terms of how they express motion and the concepts related to it.
+
+In English, for example, there are many verbs that simultaneously express both
+
+the concept of motion and the way the motion occurs. Table 6.9 illustrates
+
+this.
+
+
+
+
+
+Notice how each of these verbs expresses both the fact that something moved
+
+and the way it moved (by rolling, sliding, limping, and so on). Thus English
+
+lexicalization is described as including a conflation pattern which combines
+
+manner and motion into a single verb meaning.
+
+Grammatical concepts
+
+Some concepts are associated with affixes and non-lexical categories in
+
+English. For example, the concept of ‘past’ can be represented by the –ed affix
+
+and the concept of obligation can be represented by the word must. Table 6.12
+
+provides more examples
+
+Syntax and sentence interpretation
+
+In this section we will introduce problems which arise from sentence
+
+interpretation. The Principle of Compositionality states that the meaning of
+
+a sentence is determined by the meaning of its component parts how they are
+
+arranged in syntactic structure. In the next sections we will consider four
+
+aspects of syntactic structure as it relates to the interpretation of sentences:
+
+constructional meaning, the representation of structural ambiguity, the
+
+assignment of thematic roles, and the interpretation of pronouns.
+
+Constructional meaning
+
+Structural patterns can have a meaning of their own; independent of the
+
+meaning of their component parts. One example of this constructional
+
+meaning can be seen in the caused-motion construction. (PPdir represents a
+
+PP in which the preposition denotes a direction.)
+
+(21) and (22) represent caused-motion sentences. The first sentence (a),
+
+describes a situation where Seymour causes the truck to go off the table by
+
+pushing it, thus there is a ‘cause’ to create ‘motion’
+
+
+Another example of constructional meaning can be found in patterns such as
+
+the sentences in (24)
+
+
+
+
+
+These sentences have a ditransitive construction, which consists of a verb and
+
+two NPs associated with the meaning ‘X causes Y to have Z’. Thus (24a)
+
+describes a situation in which Jerry causes Lou to have a present by sending it
+
+to him.
+
+Structural ambiguity
+
+Some sentences are structurally ambiguous; meaning the words within them
+
+can be combined in more than one way. An example of ambiguity can be seen
+
+in the phrase wealthy men and women, where ‘wealthy’ can refer to just the
+
+men alone or of both the men and the women. (26) illustrates this ambiguity.
+
+Another example of structural ambiguity can be seen in statements such as
+
+Nicole saw the people with binoculars. In one interpretation, Nicole is seeing
+
+people through binoculars, and in the other interpretation she sees people
+
+holding binoculars. In sum, the way words are grouped together in syntactic
+
+structure reflects the way in which their meanings are combined.
+
+Thematic roles
+
+Another aspect of semantic interpretation involves determining the role that
+
+the referents of NPs play in the situations described by sentences. Consider the
+
+sentence The courier carried the document from Halifax to Vancouver. It would
+
+be impossible to understand this sentence if we could not recognize the
+
+courier as the person who is responsible for carrying something, the document
+
+as the thing that is carried, Halifax as the original location, and Vancouver as
+
+the destination. Linguists often use thematic roles to categorize the relation
+
+between a sentence’s parts and the event that it describes. Table 6.14 lists
+
+some thematic roles.
+
+
+
+
+
+Examples of these thematic roles can be seen in sentences such as the
+
+following
+
+
+
+
+
+The notion of movement used in the definition of theme, source, and goal
+
+involves both physical motion (as seen in 32) and changes in possession (as
+
+seen in 33).
+
+Thematic role assignment
+
+As we have just seen, thematic roles originate in word meaning. Thus, if the
+
+sentence Marvin purchased a pen at the bookstore contains an agent and a
+
+theme, it is because the verb ‘purchase’ has a meaning that implies something
+
+that does the purchasing (an agent) and something that gets purchased (a
+
+theme). Information about the thematic roles assigned by a particular lexical
+
+item is recorded in a thematic grid, as depicted in table 6.15.
+
+
+
+
+
+Thematic roles are assigned to NPs based on their position in the syntactic
+
+structure, with each NP receiving a single role.
+
+
+Figure 6.4 illustrates a P that assigns a thematic role to its complement NP.
+
+Figure 6.5 illustrates verbs assigning roles. With verbs, we need to distinguish
+
+between the theme role, which is assigned to the verb’s complement, and the
+
+agent role, which is assigned to its subject. A verb assigns a theme role to its
+
+complement NP, and a verb can also assign an agent role to its subject NP.
+
+
+
+
+
+Figure 6.6 illustrates the assignment of thematic roles in a sentence that
+
+contains a P in addition to a V. Here, the P (to) assigns its goal role to its
+
+complement NP (the door) while the verb dash assigns its agent role to the
+
+subject the children.
+
+The interpretation of pronouns
+
+Syntactic structure also has an important role to play in the interpretation of
+
+pronouns, including pronominals such as he, him, she, and her and reflexive
+
+pronouns such as himself and herself (see table 6.16)
+
+
+
+
+
+The interpretation of pronouns can be determined by another element called
+
+the antecedent. An antecedent is an expression that gives its meaning to a
+
+pronoun. This means, if an antecedent is feminine, then the corresponding
+
+pronoun must also be feminine. For example, in My sister is the tallest in her
+
+class, the antecedent is sister (feminine) therefore the correct pronoun to use
+
+here is her which is also feminine. Additionally, as the sentences in (37) help
+
+show, pronominals and reflexive pronouns differ in terms of where their
+
+antecedents are located.
+
+Notice that her in (37a) can either refer to Claire or to someone not mentioned
+
+in the sentence, but that herself in (37b) can only refer to Alexis. Thus, reflexive
+
+pronouns typically must have an antecedent in the same clause.
+
+
+Additionally, reflexive pronouns can be seen in sentences such as (38) That
+
+boy’s teacher admires himself. Here, there are two NPs in the same TP as
+
+himself (first NP = that boy’s, second NP = that boy’s teacher), but only the
+
+second NP: that boy’s teacher can be an antecedent for the reflexive pronoun.
+
+Thus, the person who is admired in (38) must be the boy’s teacher, not the boy.
+
+
+========================================================================
+WEEK 8 - Phonetics I: Consonants
+========================================================================
+Introduction
+
+Humans can communicate by using a wide range of modalities (gestures, sign
+
+languages, writing, etc), nevertheless, speech has a particular importance in
+
+natural languages. Humans spoke long before they started to write, and this is
+
+reflected in their anatomical specialization. Moreover, humans also appear to
+
+have specialized neural mechanisms for the perception of speech sounds.
+
+
+Speech is the primary way in which we as humans communicate using
+
+language. In this section, we take a look at phonetics, the branch of linguistics
+
+which studies the relationship between speech and language by examining the
+
+sounds of speech and their structures.
+
+
+- Articulatory phonetics studies how the body produces speech
+
+- Acoustic phonetics measures the physical properties of the resulting speech
+
+sound waves (or what we hear when speech is produced).
+
+
+Phones (or speech sounds) are the sounds of human languages. Each of the
+
+many languages in the world use only a portion of the possible speech sounds,
+
+and many languages share common sounds with one another. Let’s begin by
+
+taking a closer look at how we classify these sounds.
+
+Phonetic Transcription
+
+The International Phonetic Alphabet (IPA) represents each individual
+
+speech sound as a single symbol. You might ask, how is IPA different from the
+
+English (or any language’s) alphabet? Although alphabets and spellings can
+
+vary across languages, recall that the sounds of every language all fall within
+
+the inventory of possible human speech sounds. Sometimes, even when
+
+spelling differs between languages, the sound remains the same.
+
+
+For example: the IPA symbol [ð] is used to represent the th sound in English
+
+they . However, [ð] is also used to represent the d sound in Spanish arder
+
+(‘burn’).
+
+     - This example illustrates a difference in spelling (th vs. d) for the same
+
+speech sound [ð]
+
+
+IPA uses phonetic symbols for individual speech sounds in whatever language
+
+is being heard.  . Square brackets [ ] identify when a sound is phonetic, and not
+
+from a language’s spelling system.
+
+Units of representation
+
+We segment speech using the individual phones of IPA (such as [k], [d], and [s]).
+
+Why?
+
+Segments
+
+Segments are individual speech sounds. We know that speech can be
+
+segmented because:
+
+
+       Slips of the tongue such as runny babbit for bunny rabbit show that
+
+       individual segments of words can shift.
+
+     Sounds across languages are similar enough to transcribe them in the
+
+     same way. A p sound is the same between English and Russian.
+
+     Sounds like s and d are consistently distinct and are assigned different
+
+      IPA symbols
+
+Correct: (d) – there are 7 sounds in the word ‘perfect’! Remember that when
+
+linguists count segments, they do not look at the spelling of the word. We have
+
+to focus on the sounds being produced instead.
+
+The Sound-Producing System
+
+When we speak, we use three main mechanisms to produce and modify
+
+sound:
+
+
+     An air supply: our lungs.
+
+     A sound source: air is set into motion in the larynx which houses our
+
+      vocal folds (also known as vocal cords).
+
+     A set of 3 filters: the vocal tract lies above the larynx and consists of the
+
+      pharynx, oral cavity, and nasal cavity. These “filters” work together to
+
+      modify the sounds being made.
+
+
+Let’s take a closer look at these sound-producing mechanisms.
+
+The lungs
+
+How do we maintain the level of air pressure needed for the speech system to
+
+function? There are 2 main players:
+
+The intercostals: muscles between the ribs that raise the ribcage to
+
+      allow the lungs to expand during inhalation
+
+     The diaphragm: sheet of muscle below the lungs that help control air
+
+       release during exhalation so that we can speak in between breaths
+
+The larynx
+
+Air leaves the lungs, travels up the trachea (windpipe) and goes through the
+
+larynx (also known as the voice box). The vocal folds in the larynx can be
+
+pulled apart or together. Their position produces different glottal states as air
+
+moves through the glottis (space between the vocal folds).
+
+
+
+
+
+Glottal states
+
+Listed below are four of the (over twelve) possible glottal states of sound
+
+production.
+
+
+
+
+
+Voiceless
+
+Voiceless sounds are produced with the vocal folds pulled apart, allowing air
+
+to pass through glottis without interference. If you try touching your larynx
+
+(Adam’s apple) when you make a voiceless sound
+
+                               (like the t in tip or the s in sun), you should not feel
+
+                     any vibration.
+
+
+                      Voiced
+
+                      Voiced sounds are produced when the vocal folds
+
+                        are pulled close together (but not tightly) so that air
+
+                        passing through causes them to vibrate against each
+
+                           other. If you touch your larynx while producing a
+
+                        voiced sound (like the v in vice or the z in zebra), you
+
+                       should feel this vibration.
+
+
+                     Whisper
+
+                    A whisper is voiceless, but different in that the front
+
+                            (anterior) of the vocal folds are pulled together while
+
+                       they are pulled apart at the back (posterior)
+
+
+                  Murmur
+
+                  Murmur (also known as breathy voice) is used to
+
+                        describe voiced sounds that have a “breathy”
+
+                            quality, due to the vocal folds being slightly more
+
+                         relaxed which allows more air to escape.
+
+
+
+
+Sound Classes
+
+Vowels and Consonants
+
+The most basic starting point for categorizing a sound is determining whether
+
+it is a vowel or consonant. Here is how to tell them apart:
+
+Articulatory difference
+
+         Consonantal sounds can be voiced or voiceless, and are produced
+
+       when airflow is restricted or blocked by narrowing ([v]), or fully
+
+          closing ([m]) the vocal tract
+
+         Vowels are usually voiced, and are made with little obstruction of
+
+         the vocal tract
+
+         • Acoustic difference: Vowels sound more powerful acoustically (more
+
+     sonorous or resonant) than consonants, and seem to sound longer in
+
+      duration Syllabic and non-syllabic sounds
+
+Glides
+
+Glides have characteristics of both vowels and consonants and are sometimes
+
+referred to as semivowels or semi-consonants. They are like vowels during
+
+articulation; however, they transition quickly to/from another segment ( watch,
+
+yes, toy, cow ) as if they were part of that sound. Like consonants, glides cannot
+
+form a syllabic nucleus.
+
+Consonant Articulation
+
+Places of Articulation
+
+Sounds can also be categorized based on their places of articulation- the
+
+points at which the airstream is restricted or obstructed to modify sound. We
+
+will focus on sounds that are present in Canadian English:
+
+[Visual figure preserved in PDF]
+
+Manners of Articulation
+
+Sounds are also grouped based on the interaction of articulators (or manners
+
+of articulation).
+
+Oral versus nasal phones:
+
+
+A primary distinction to be made is whether a sound is oral or nasal.
+
+
+- Oral sounds: raised velum restricts airflow from entering the nasal cavity
+
+- Nasal sounds: lowered velum allows airflow through the nasal cavity (ex. [m,
+
+n, ŋ])
+
+Stops
+
+Stops are produced when there is momentary closure in the vocal tract, so
+
+that airflow is released as a burst. Stops of English include:
+
+
+
+
+
+Fricatives
+
+Fricatives are consonantal sounds made with continuous airflow (making
+
+then part of the larger class called continuants, which includes vowels and
+
+glides). The airflow passes through a narrow opening in the vocal tract,
+
+creating a continuous noise. Fricatives of English include:
+
+
+
+
+
+Affricates
+
+Affricates are made by producing a stop followed immediately by a fricative.
+
+English has two:
+
+Louder (or ‘noisier’) fricatives and affricates are also known as stridents (or
+
+sibilants), and quieter ones are non-strident. English stridents are listed
+
+below:
+
+
+
+
+
+Voicing lag and Aspiration
+
+After certain voiceless stops are released, there is a brief delay before a
+
+following vowel is voiced. Air released during this lag is called aspiration,
+
+which can be marked with a diacritic [h] after the consonant being aspirated.
+
+Here are some examples of aspiration in English:
+
+
+
+
+
+Liquids
+
+The oral sonorous consonantal sounds l and r together form a class called
+
+liquids.
+
+
+       Variations of l are called laterals. They are usually voiced but can also
+
+     be devoiced (which would be denoted as [l̥]). You can hear voiceless
+
+laterals in clean and plead)
+
+         Pay attention to [l] pronunciation in lead vs. doll. Did you notice an
+
+          constriction in the back of your mouth for doll? This type of [l] is
+
+          called velarized or dark [ɫ]
+
+          English r ( as in red or bar ) is known as retroflexr and is made with
+
+         the tongue bunched up and back in the mouth. In IPA it is shown as
+
+               [ɹ], but we can also represent it with [r].
+
+     The flap [ɾ] is made when the tongue makes brief contact with the
+
+       alveolar ridge. It can be heard in the North American English
+
+      pronunciation of putty and pity.
+
+
+English laterals are displayed below (voiced sounds are underlined):
+
+
+
+
+
+Syllabic liquids and nasals
+
+Recall from Section 2.3.1 that vowels are more sonorous than consonants. You
+
+may think of liquids and nasals as strictly consonants, but they are actually
+
+more vowel-like in their sonority. In this way, they can sometimes also act as
+
+syllabic liquids and syllabic nasals respectively. They are transcribed with a
+
+short line diacritic under them. Examples in English include kettle [kɛɾl̩] and
+
+tunnel [tʌnl̩]. Syllabic [r] as in the ‘-er’ sound in word can appear as [wərd] or
+
+[wr̩d].
+
+Glides
+
+Recall glides from from Section 2.3.2, that glides are quickly articulated sounds
+
+that are non-syllabic. Canadian English has two:
+
+
+========================================================================
+WEEK 9 - Phonetics II: Vowels
+========================================================================
+Review: Phonetic Transcription
+
+The International Phonetic Alphabet (IPA) represents each individual
+
+speech sound as a single symbol. You might ask, how is IPA different from the
+
+English (or any language’s) alphabet? Although alphabets and spellings can
+
+vary across languages, recall that the sounds of every language all fall within
+
+the inventory of possible human speech sounds. Sometimes, even when
+
+spelling differs between languages, the sound remains the same.
+
+
+For example: the IPA symbol [ð] is used to represent the th sound in English
+
+they. However, [ð] is also used to represent the d sound in Spanish arder
+
+(‘burn’).
+
+
+This example illustrates a difference in spelling (th vs. d) for the same speech
+
+sound [ð]
+
+IPA uses phonetic symbols for individual speech sounds in whatever language
+
+is being heard. Square brackets [ ] identify when a sound is phonetic, and not
+
+from a language’s spelling system.
+
+Units of representation
+
+We segment speech using the individual phones of IPA (such as [k], [d], and [s]).
+
+Why?
+
+Segments
+
+Segments are individual speech sounds. We know that speech can be
+
+segmented because:
+
+Slips of the tongue such as runny babbit for bunny rabbit show that
+
+       individual segments of words can shift.
+
+     Sounds across languages are similar enough to transcribe them in the
+
+     same way. A p sound is the same between English and Russian.
+
+     Sounds like s and d are consistently distinct and are assigned different
+
+      IPA symbols
+
+
+Now, let’s take a look at the vowels of English. In this chapter, we focus on the
+
+main vowels used in Standard American English. These vowels can be
+
+described in terms of four properties: height, backness, roundedness, and
+
+tenseness.
+
+Before we discuss these features, it is important for you to learn the IPA
+
+symbols that correspond to each vowel. The example words for each vowel is
+
+given below.
+
+
+[i]=sheep
+[ɪ]=ship
+[ɛ]= end
+
+[u]= boot
+[ʊ]=put
+[ʌ]= cut
+
+[æ]= hat
+[ə]= famous
+
+[o]= boat *[o(w)]
+[ɑ]= spa
+
+
+Can you add an example in front of each vowel?
+
+
+All vowels in English are voiced and involve a continuous flow of air through
+
+the oral cavity. English vowels can be categorized by 4 distinctive features:
+
+
+(1) Height of the tongue
+
+(2) Frontness/backness of the tongue
+
+(3) Tenseness/laxness i.e. whether the tongue muscle is tense or lax
+
+(4) Rounded/unrounded i.e. whether the lips are rounded or not
+
+Vowels: Height
+
+The vertical position of the tongue in the mouth – how high or low the tongue
+
+is.
+
+
+          [i] leak (high)
+
+      [æ] lack (low)
+
+Vowels: Backness
+
+The horizontal position of the tongue in the mouth –how far forward or
+
+backward the tongue is
+
+
+      [æ] pat (front)
+       [ɑ] pot (back)
+
+Vowels: Roundedness
+
+Whether the lips are rounded or not during production of the vowel.
+
+
+          [i] beat (unrounded)
+       [ʊ] boot (rounded)
+
+Vowels: Roundedness
+
+Whether the lips are rounded or not during production of the vowel.
+
+
+          [i] beat (unrounded)
+       [ʊ] boot (rounded)
+
+Vowels: Tenseness
+
+Corresponds to tension of the tongue during production of the vowel (to be
+
+discussed below)
+
+
+[i] lead (tense)
+[ɪ] lid (lax)
+
+
+Recall that compared to consonants, vowels are much higher in sonority
+
+(resonance) and are produced with little obstruction of the vocal tract
+
+Simple vowels and diphthongs
+
+The most basic distinction to be made is between simple vowels and
+
+diphthongs. Complex because they are two-part vowels but count as a single
+
+sound because two vowels are articulated together.
+
+
+Start with a vowel and end with a glide Examples:
+
+
+[aj]= bite
+
+[oj] = toy
+
+[e]= bait *[e(j)]
+
+
+Let’s take some examples. Let’s pronounce the following words:
+
+
+buy [baj]
+
+now [naw]
+
+boy [boj]
+
+
+What can we notice in the pronunciation of the vowels?
+
+
+Each of the bold-faced diphthongs starts in one position (eg. [a]), and ends up
+
+in another position (eg. [w], [j])
+
+
+For other diphthongs, the change in articulation is not drastic (therefore, it
+
+might not be that easy to hear it). These diphthongs are called minor:
+
+
+Let’s take some examples:
+
+play [plej]
+
+go [gow]
+
+
+When analyzed carefully, we can notice that the starting position in the bold-
+
+faced diphthongs is different from the ending positions.
+
+
+Although diphthongs are complex from the point of view of their articulation,
+
+they act as a single vowel in many respects. For example, diphthongs are part
+
+of the same syllable:
+
+
+boy [boj]: one syllable, whose peak is a diphthong
+
+now [naw]: one syllable, whose peak is a diphthong
+
+cat [kæt]: one syllable, whose peak is a simple vowel
+
+
+Consider the vowel sounds in the words:
+
+
+pete [i]
+pot [ɑ]
+
+
+How are they different from each other? You should feel your tongue move
+
+from the high front of your mouth for [i] to the low back part of your mouth for
+[ɑ].
+
+
+[i] is a high front vowel.
+[ɑ] is a low back vowel.
+
+
+Caution: when speaking about the vowel sounds and symbols, we refer to
+
+them by how they sound not by the symbol used. So when I say “the sound [i],”
+
+or even just “[i] is made…” we mean [i], not the letter ‘e’. So we characterize
+
+vowels by how high the tongue is in the mouth and whether it’s in the front or
+
+the back of the mouth.
+
+
+pete [i]
+
+pat [æ]
+
+The tongue is at the front of the mouth for both. The difference is that it is
+
+lower for [æ] than for [i]. Not convinced that [æ] is a low front vowel? Compare
+it with our low back vowel [ɑ]:
+
+pot [ɑ]
+
+Now move from our low back vowel [ɑ] to the high back vowel [u] in boot. This
+
+is tricky because there is something going on at the front of the mouth: our lips
+
+are rounded. This is another way we characterize vowels. Where is the tongue,
+
+and are the lips rounded or not. But if we concentrate on the tongue, [u] is high
+and back whereas [ɑ] is low and back.
+
+
+Try comparing
+
+
+[i] and [u]:
+
+
+cheat [i]
+
+boot [u]
+
+
+So far we have described vowels by - how high the tongue is in the mouth -
+
+whether the tongue is in the front or the back of the mouth, and also, whether
+
+or not the lips are rounded.
+
+
+[i] beet       [i] is high and front and unrounded
+[ɪ] bit      [ɪ] is high and front and unrounded
+
+[e] bait     [e] is mid and front and unrounded
+[ɛ] bet     [ɛ] is mid and front and unrounded
+
+[æ] bat    [æ] is low and front and unrounded
+
+
+We can further distinguish vowels in terms of whether they are tense or lax.
+
+Tense vowels are produced with greater muscular tension and are longer while
+
+lax vowels are pronounced with less tension and tend to be shorter.
+
+[i] is a tense, high, front, unrounded vowel.
+[ɪ] is a lax, high, front, unrounded vowel.
+
+[e] is a tense, mid, front, unrounded vowel.
+[ɛ] is a lax, mid, front, unrounded vowel.
+
+
+In English, monosyllabic words spoken in isolation do not end in lax vowels.
+
+Transcribe the following words: bee, boy, Sue, cow
+
+English Back Vowels:
+
+[u] boot [u] is a tense, high, back, rounded vowel.
+[ʊ] put    [ʊ] is a lax, high, back, rounded vowel.
+
+[o] boat [o] is a tense, mid, back, rounded vowel.
+[ɑ] cot    [ɑ] is a tense, back, unrounded vowel
+
+[ʌ] and [ə] are neither front, nor back, neither high, nor low. They are mid,
+central, lax vowels. They sound very similar. [ʌ] only appears as a stressed
+
+vowel in English, in words like duck and cup.
+
+[ə]: (schwa): mid central vowel, e.g. about, teacher, [ʌ] (caret): mid central
+vowel, e.g. cut, but [ə] only occurs as an unstressed vowel, as in sofa and
+
+telephone. It is called schwa or reduced vowel.
+
+
+[i] as in meet is high front tense unrounded vowel
+
+[æ] as in pat is low front lax unrounded vowel
+[ɑ] as in pot is low back tense unrounded vowel
+
+
+Some English speakers (for example, speakers from New York or from various
+
+British dialects) pronounce the first vowel in a word like coffee with a sound
+which is transcribed as [ɔ]. This sound can be heard in some varieties of
+
+Canadian English, too. Try to pronounce words like more or court. In this class,
+
+we will transcribe the vowel sound pronounced in more as [o], although the
+
+diphthong is not salient in this case.
+
+Simple Vowels and Diphthongs
+
+      Simple vowels remain stable in quality for the duration of their
+
+      production
+
+         Examples: kit, cut, log, get, sat, foot
+
+      Diphthongs change quality within the same syllable. In English
+
+      diphthongs, the tongue begins in the vowel position, but changes to a
+
+       glide position within the same articulation
+
+         Major diphthongs have a large, noticeable change in quality (ex. toy
+
+             [oj], lie [aj], and cow [aw]). Each starts in one position (ex. [o]) and
+
+         ends in another (ex. [j]).
+
+         Minor diphthongs have a less noticeable change (ex. day [ej] and
+
+      mow [ow])
+
+
+It is important to note that even though diphthongs change in quality, they still
+
+act as single vowels. Below are simple vowels and diphthongs of English:
+
+(Table 2.13 , page 35)
+
+[Visual figure preserved in PDF]
+
+Correct: (d) – [æ]! Much like in the words ‘cat’, ‘salary’, and ‘tally’, the first vowel
+
+in ‘palace’ is the low front unrounded lax [æ].
+
+Basic parameters for describing vowels
+
+We describe vowels mainly in terms of their height, backness, and rounding in
+
+that order. For example, the vowel in two [u] is described as a high back
+
+rounded vowel because the tongue position is in a high, backed position and
+the lips are rounded. Contrast this with the vowel in father  [ɑ], which is a low
+
+back unrounded vowel. Try saying the following examples out-loud, paying
+
+attention to the positions of your own tongue:
+
+Tense and lax vowels
+
+Another way of characterizing vowels is by their tenseness. Tense vowels (as in
+
+English [i] ‘seat’ and [u] ‘suit’) have tighter constriction of the vocal tract and
+are longer in duration than lax vowels. Lax vowels (as in English [ɪ] ‘sit’ and [ʌ]
+
+‘gut’) can be produced with the same tongue position as their tense
+counterparts, but with less constriction. The [ə] vowel (called ‘schwa), is known
+
+as a reduced vowel as it is shorter in duration than any other vowel.
+
+
+- English monosyllabic words usually end in tense vowels (ex. tea [ti], may
+
+[mej], sew [sow])
+- Schwa appears frequently in unstressed syllables. Ex. leg[ə]l, Can[ə]d[ə],
+sof[ə]
+
+
+The following image shows how we map the placement of vowels in a
+
+trapezoid-like diagram. Regions of height and backness are marked. Tensed
+
+vowels are circled.
+
+Phonetic transcription of Canadian English consonants
+and vowels
+
+Now that we’ve looked at consonants and vowels separately, let’s put them
+
+together. The modified IPA charts below display the Canadian English sounds
+
+we’ve discussed so far.
+
+[t]: the actual sound we produce (phonetic) /t/: the abstract representation of
+
+that sound (phonemic) : the letter t
+
+
+========================================================================
+WEEK 10 - Phonetics III: Speech Production
+========================================================================
+Coarticulation
+
+
+So far, we’ve looked at speech sounds in isolation; however, speech is not a
+
+series of isolated occurrences. We have introduced the basic parameters for
+
+the classification of vowels and consonants, but speech production is not a
+
+series of isolated events. speech is a very complex phenomenon. As
+
+articulatory organs operate independently of each other, many adjustments
+
+have to be made in order to produce fast speech.
+
+
+Quite often, more than one articulator is active in order to allow the
+
+production of fast speech. For example, when we produce a sound sequence
+
+like [pl], we do not articulate the sound [p], then stop, and then articulate
+
+sound [l]. Rather, as the sequence [pl] is produced, the tongue tip will start to
+
+move toward the alveolar ridge before the lips separate. As a result of these
+
+processes, the articulation of one sound affects the surrounding sounds. When
+
+we produce sequences of speech segments, we coordinate muscular
+
+movements to make smooth articulatory transitions. This is known as
+
+coarticulation. as a result of more than one articulator being active,
+
+articulatory adjustments take place. Such adjustments are called (articulatory)
+
+processes. They change the nature of individual segments
+
+Processes
+
+
+Processes are the articulatory movements that occur during connected
+
+speech.
+
+Can make speech more efficient. For example, when we say tank, we
+
+      don’t wait until we reach n to lower the velum. We start lowering it
+
+      sooner, during the a articulation
+
+     Can also make speech less efficient, but more distinct. For example,
+
+     when people ask you to repeat what you said, you are likely to lengthen
+
+      segments to make what you said easier to perceive (I said my name is
+
+      Paauuul!)
+
+
+Some common articulatory processes
+
+Assimilation
+
+Assimilation occurs when one phone becomes more similar in sound to a
+
+nearby phone. Assimilation results from a sound becoming more like another
+
+nearby sound in terms of one or more of its phonetic properties.
+
+
+We have different types of assimilation. For instance, vowels become nasalized
+
+([~]) when they come before a nasal consonant like in [tæ̃n] ‘tan’. This is an
+
+example of Regressive assimilation, because the nasalization applies to a
+
+prior segment (moving backwards). Progressive assimilation occurs when
+
+the assimilation applies to a following segment (moving forwards), like in Scots
+Gaelic [mũ] ‘about’.
+
+
+Devoicing occurs when vowels or voiced consonants become voiceless. For
+
+example, liquids and glides become devoiced after voiceless stops (ex. [p̥l̥æn]
+
+‘plan’, [tr̥ɪk] ‘trick’).
+
+
+Voicing occurs when voiceless segments become voiced. In Dutch, voiceless
+
+fricatives become voiced before a voiced stop (ex. the f in afbellen ‘to cancel’ is
+
+produced with [v]). Devoicing and voicing are types of voicing assimilation.
+
+Voicing assimilation is common across languages. What is the difference in the
+
+pronunciation of the plural marker in the words cats and dogs? What about /l/
+
+in lot and plot?
+
+Voicing assimilation: as in the case of liquids and glides which become
+voiceless after voiceless stops - Try saying have to, has to, used to [v]→ [f]
+[z]→[s]
+
+
+Place of articulation can also be assimilated. Try saying incredible out-loud,
+
+paying attention to the position of your tongue for n. You probably noticed that
+
+you pronounced the nc as [ŋ]. This is because you assimilated the [n] (which is
+
+an alveolar sound), to the velar placement of [k]. Assimilation of place is also
+
+quite common. Consider the different pronunciations of the English negative
+
+prefix in intolerable and incompatible.
+
+
+One typical example: the element in- added in front of various words to create
+
+a negative meaning Possible in + possible ® impossible tolerable in + tolerable ®
+
+intolerable
+
+
+Nasalization of a vowel is regressive in English: [bõnd] ‘bond’ [bæ ̃mbu]
+
+‘bamboo’ Nasalization of vowels is progressive in Scottish Gaelic: [mõ:r] ‘big’
+
+[nĩ] ‘cattle’
+
+Flapping occurs when an alveolar stop or dental sound turns into a flap [ɾ].
+
+You might notice this while saying words like bitter or rider. This is assimilation
+
+because the stop becomes weakened (less stop-like and therefore more vowel-
+
+like) between vowels. Compare the t-sound in buttress and butter Compare the
+
+d-sound in bedroom and bedding. In North American English – casual speech
+
+pronunciation -, when [t] and [d] occur between vowels, they usually sound
+
+like a flap [ɾ]. [ɾ] voiced alveolar continuant (not a stop) – the tongue tip strikes
+
+the alveolar ridge as it passes across it.
+
+Dissimilation
+
+Dissimilation is the opposite of assimilation and occurs when two sounds
+
+become less similar. Dissimilation: This is the opposite of assimilation resulting
+
+in two sounds becoming less alike. E.g. some English speakers pronounce fifth
+/fɪfθs/ as [fɪfts]. sixths /sɪksθs/ as [sɪksts].
+
+
+When a segment has been removed, it has undergone deletion. This often
+
+occurs in rapid speech. In English, [ə] can get deleted before a stressed
+
+segment (ex. ‘suppose’ [səpówz] à [spówz]). This process removes a segment
+
+from a word. àSchwa is often deleted in English: suppose [səpowz] à [spowz]
+àDifficult consonant clusters: fifths [fɪfθs] à [fɪfs]
+
+The insertion of a segment is known as epenthesis. You might pronounce
+
+hamster [hæmstər] as [hæmpstər], with a [p] inserted. By doing this, the [ms]
+
+transition is made smoother since [p] contains properties of both sounds
+
+(same place as [m] and same voicing as [s]). In Turkish, consonant clusters are
+
+not permitted word-initially. When English words with consonant clusters are
+
+borrowed, a vowel is inserted to break the cluster (English train becomes
+
+Turkish [tiren]). This process inserts a segment within the existing string of
+
+segments. Transcribe the words something and warmth.
+
+Metathesis
+
+In Metathesis, segments are reordered; usually to make a sequence easier to
+
+articulate. For example, you may produce comfortable as comfterble, or
+
+prescription as prescription. This process reorders a sequence of segments. E.g.
+
+Some speakers use metathesis in the pronunciation of prescribe or
+
+prescription.
+
+Speech Sounds
+
+
+In the previous three lectures we have seen that sounds (segments) in human
+
+languages can be classified in various ways. We have also seen that they are
+
+sensitive to the segments in their vicinity during actual pronunciation, and we
+
+have discussed the distinction between phonemes (mental, abstract units),
+
+and allophones (their variants, respecting factors involved in actual
+
+pronunciation). A question we still need to ask: how are groups of segments
+
+organized?
+
+
+John says “book” : [bʊk] • These sound waves enter into my ears and are
+
+reinterpreted by my mind as three discrete units of speech sound.
+
+
+[bʊk] is associated with a word that is stored in my mental lexicon. Information
+
+about the sound of a word is stored in terms of ABSTRACT units /bʊk/.
+
+
+These three abstract units of speech sound are part of an inventory of sounds
+
+that I recognize as belonging to English.
+
+
+/bʊk/ --> [bʊk]
+
+
+Last week we spoke briefly about speech sound inventories of different
+
+languages. Recall that English uses about 24 different consonants to form
+
+words and about 14 vowels. However, a consonant or vowel can be
+
+pronounced differently in different environments.
+
+
+What is different about the way we pronounce the vowel in bat [bæt] and ban
+
+[bæn]?
+
+
+Despite the difference, however, we all have the intuition that both vowel
+
+sounds are essentially the same vowel, the low front lax. • We have this
+
+intuition because the oral/nasal alternation is regular and predictable. –
+
+regressive assimilation of nasal on vowels in English.
+
+
+What would the abstract representations of [bæt] and [bæ̃n] be if our mind
+
+interprets the vowel as the same in both words? We would then need a general
+
+abstract rule that describes how our mind understands that nasal vowels are
+
+not important for understanding words.
+
+
+/bæn/ nasalization rule: V à nasal / __ nasal consonant (in the same syllable)
+
+
+The abstract representation of a speech sound that contrasts with other
+
+speech sounds and that is used to make meaningful units (morphemes,
+
+words). /æ/ is a phoneme in English. [æ̃] is not a phoneme of English, it is just a
+
+way of pronouncing /æ/ - we say it is an allophone of /æ/.
+
+
+Phonology is the study of the sound systems of human language. It can also be
+
+used to refer to that particular component of the linguistic knowledge of a
+
+speaker. Part of acquiring a language is to sort out words within a sentence and
+
+sounds within a word, and what sounds are meaningful (phonemes).
+
+
+Question: Consider the sound /p/ in the words peak and speak. Do you notice
+
+a difference? Notice the puff of air in the production of the former and its
+
+absence in the latter. [p h ik] vs. [spik].
+
+
+Question: What determines whether the [p] should be aspirated or not? heap,
+
+peak, heaps, speak, repeat, hospital Its position. We can easily see that [p] is
+
+aspirated at the beginning of a syllable (peak, repeat), but nowhere else
+
+(speak, hospital, heap, heaps).
+
+
+When two sounds occur in different environments (i.e. cannot occur in the
+
+same environment), they are said to be in complementary distribution: [p h ]
+
+and [p]. [p h ] and [p] do not occur in the same position and thus cannot
+
+distinguish words from one another, they are allophones of the same
+
+phoneme.
+
+
+/p/ and /b/ contrast in many words. This means that they are meaningful. [plid]
+
+‘plead’ [nɪp] ‘nip’ [p hæn] ‘pan’ [blid] ‘bleed’ [nɪb] ‘nib’ [bæn] ‘ban’ MINIMAL
+
+PAIRS.
+
+
+Conclusion: In English, there are two phonemes /b/ and /p/; /p/ has two
+
+allophones [ph ] and [p] /b/ /p/ [b] [ph ] [p] syllable-initially elsewhere.
+
+
+                         σ/p/ Aspiration rule: p aspirated /  __ (syllable initially) [phæt]
+
+
+But phonological rules often operate on natural classes of sounds – sounds
+
+that have properties in common. /p/ is a voiceless stop. What are the other
+
+voiceless stops? Are they aspirated syllable-initially and non-aspirated
+
+elsewhere? take vs stab cake vs crab.
+
+
+                    σVoiceless stops aspirated/  __ In English, voiceless stops become aspirated
+
+syllable-initially.
+
+
+Canadian Raising Question: Consider the following words and their
+
+pronunciation in Canadian English. Are [aj] and [ʌj] separate phonemes or
+
+allophones of the same phoneme in Canadian English?
+
+
+ise [rajz]
+
+rice [rʌjs]
+
+ride [rajd]
+
+right [rʌjt]
+
+tribe [trajb]
+
+tripe [trʌjp]
+
+fly [flaj]
+
+flight [flʌjt]
+
+wives [wajvz]
+
+wife [wʌjf]
+
+
+In Canadian English, the diphthong /aj/ is pronounced as [ʌj] before voiceless
+
+consonants. Since [ʌ] is higher than [a], this characteristic is known as
+
+Canadian Raising. [ʌj] before voiceless consonants /aj/ [aj] elsewhere.
+
+
+The same story can be repeated for /aw/. The phoneme /aw/ has two
+
+allophones in Canadian English, [ʌw] which occurs before voiceless
+
+consonants (e.g. about, doubt, mouse, etc.) and [aw] which occurs elsewhere
+
+(e.g. loud, arouse, how, etc.). Contrast the vowel in house/houses.
+
+When we discussed the classification of human language sounds, we noticed
+
+that: vowels, glides, liquids, and nasals are sonorant sounds. Vowels are the
+
+most sonorous > glides > liquids> nasals stops, fricatives, affricates
+
+(obstruents) are not sonorant. Their sonorous capacity, allows vowels (as well
+
+as glides, liquids and nasals) to support segment groups, that is to form the
+
+peak of syllables.
+
+When sounds are pronounced in human languages, they are also organized in
+
+groups. That is, if we need to pronounce a word that has 10 sounds, we
+
+organize these sounds in specific groups, based on the characteristics of the
+
+sounds involved. The groups of segments with internal organization are called
+
+syllables. In this sense, syllables are suprasegmental (above the segment)
+
+units.
+
+
+Since vowels are the most sonorous sounds, syllables usually require a vowel
+
+as their nucleus, in order to be independent. Less sonorous sounds might
+
+appear on either side of the nucleus. Therefore, a word like unexpected has 4
+
+syllables, because it has 4 vowels: 1 2 3 4
+
+
+[ʌn . ɛk. spɛk.tɛd] (. = informal syllable division)
+
+
+Native speakers of English demonstrate their awareness of the sonority values
+
+of segments and of the syllable as a unit of phonological structure. To take
+
+another example, in a word like sprint speakers know that the existence of the
+
+vowel ɪ triggers the existence of a syllable. Also, some consonants precede the
+
+vowel, while other consonants follow the vowel.
+
+
+========================================================================
+WEEK 11 - Phonology I: Phonemes and Allophones
+========================================================================
+Introduction
+
+
+In the previous chapter we have seen that humans are capable of perceiving
+
+and producing a variety of speech sounds. While no language uses all of these
+
+building blocks, every language selects its own set of sounds and organizes
+
+them into an impressive system of patterns and constraints. Phonology deals
+
+with such organized systems of abstract representations of sounds.
+
+
+Phonology deals with the relationships between individual sounds, as well as
+
+their organization on higher tiers (syllables). Additionally, phonology deals
+
+with building blocks of speech sounds – the acoustic and articulatory features
+
+that help us understand how and why sounds pattern in certain ways.
+
+Segments
+
+A speaker of any language produces a variety of speech sounds as they use
+
+their language. Every language contains within itself a set of distinctions which
+
+is more noticeable than others. For instance, a speaker of English will readily
+                                              back         beakidentify the difference between the vowels in the words     [bæk] and
+
+[bik]. Yet, that same speaker will find it difficult to distinguish between the
+        bean        beakvowels in        [bĩn] and       [bik]. While unnoticeable, these differences in
+
+vowel realization are physically present in our speech. Where in the first set of
+
+words the choice of vowels is deliberate, producing contrasts in meaning, the
+
+second set of vowels is something speakers are often unaware. The alterations
+
+between oral and nasal vowels is a by-product of the articulation of
+
+neighbouring sounds within the word – in this case a nasal [ĩ] appears directly
+
+before a nasal stop [n], without actually changing the meaning of the word.
+
+Phonemes and Allophones
+
+Phonologists pay close attention to the speech sounds that are contrastive in
+
+any given language. A phoneme is an abstract unit of sound that changes
+
+meaning between words. Variations of the same phoneme are called
+
+allophones, which are different pronunciations that do not change meaning.
+
+Thus, in English the sounds [ĩ] and [i] are allophones of some common
+
+phoneme since we do not use them contrastively (i.e they do not change
+
+meaning). On the other hand, the vowels [æ] and [i] are clearly contrastive (see
+back    and beak) and must be assigned to separate phonemes.
+
+
+In terms of representation, linguists select the most widely used allophone
+
+(depending on the conditions) to represent the phoneme written between
+
+slashes. The allophones of any phoneme will be written in square brackets.
+
+
+As you can see, the two variations of the vowel /i/ are allophones of the same
+
+phoneme that don’t change meaning. At the same time, the two vowels /i/ and
+
+/æ/ are separate phonemes and cannot be represented under the same tree.
+
+Recall that phonemes are abstract, mental categories that exist in a speaker’s
+
+mind. Allophones are the physical sounds that occur specifically because of
+
+human capacity to speak. Allophones occur because of changes in articulation
+
+(i.e. adjustments to your vocal tract) as we speak.
+
+Minimal Pairs
+
+Minimal pairs are one of the most common ways for linguists to identify
+
+whether two sounds are separate phonemes (i.e. contrastive). A minimal pair is
+
+a set of two words that differ by a single sound in the same position. As we
+                  beak    backhave seen previously,     and     are a minimal pair since they have the
+
+same number of segments and differ in only one sound – the vowel – in the
+
+bat     catsame position. Similarly,   and    are a minimal pair differing only in the
+
+initial consonant. Notice that by simply switching one phoneme with another,
+
+we are producing a completely new word which often has an unrelated
+
+meaning in any given language.
+
+
+When two segments produce a minimal pair, linguists know that they belong to
+
+different phonemes. Thus, /b/ and /k/ are separate phonemes, as are many
+
+other sounds in English.
+
+Correct: (a) – This is a minimal pair in English, therefore [r] and [l] are
+
+contrastive! If we were to transcribe ‘brand’ and ‘bland’, [brænd] and [blænd]
+
+respectively, we can see that these form a minimal pair. The pair differs in a
+
+single sound, creating words that have different meanings!
+
+Correct: (b) – 5! Underlyingly, there are 5 sounds in the word ‘shuffle’ /ʃʌfəl/.
+
+Phonetic and Phonemic Representations
+
+By now you may have noticed the variation in our usage of brackets
+
+throughout the chapter. As we have seen in the previous section, languages
+
+have sets of sounds that are contrastive (phonemes) and sounds that have
+
+predictable variations (allophones). From now on, we will use two different
+
+types of representation to accommodate the specific types of information that
+
+are relevant to the problems we will be examining.
+
+
+While phonemic representation showcases the phonemes making up any
+
+particular linguistic unit (word, morpheme, etc.), the phonetic representation
+
+involves all of the additional information produced during speech (aspiration,
+
+nasalization, devoicing, etc.). Linguists use slanted brackets // for phonemic
+
+representations and square brackets [] for phonetic representations. An easy
+
+way of thinking about these representations is to keep in mind that phonemic
+
+representation involves abstract phonemes that are in your mind whereas
+
+phonetic representation corresponds to what comes out of your mouth. Take a
+
+look at the following table to identify the differences between the two
+
+representations. Keep in mind that since including all of the phonetic detail
+
+will take up a lot of space, we typically include only the most relevant
+
+information in our discussions.
+
+Correct: (a) - [pl̥æ̃nɪ̃ŋ]! Remember that phonetic representation corresponds to
+
+the word that is actually pronounced, including all of the processes. In this
+
+case, there is devoicing of the liquid following an aspirated stop /p/ as well as
+
+nasalization of vowels preceding nasal consonants /n/ and /ŋ/.
+
+Minimal Pairs
+
+Minimal pairs are one of the most common ways for linguists to identify
+
+whether two sounds are separate phonemes (i.e. contrastive). A minimal pair is
+
+a set of two words that differ by a single sound in the same position. As we
+                  beak    backhave seen previously,     and     are a minimal pair since they have the
+
+same number of segments and differ in only one sound – the vowel – in the
+                      bat     catsame position. Similarly,   and    are a minimal pair differing only in the
+
+initial consonant. Notice that by simply switching one phoneme with another,
+
+we are producing a completely new word which often has an unrelated
+
+meaning in any given language.
+
+
+When two segments produce a minimal pair, linguists know that they belong to
+
+different phonemes. Thus, /b/ and /k/ are separate phonemes, as are many
+
+other sounds in English.
+
+Correct: (a) – This is a minimal pair in English, therefore [n] and [d] are
+
+contrastive! If we were to transcribe ‘brand’ and ‘bland’, [brænd] and [blænd]
+
+respectively, we can see that these form a minimal pair. The pair differs in a
+
+single sound, creating words that have different meanings!
+
+Question: Are the two sounds [p] and [b] contrastive in English? Make sure to
+
+provide evidence for your answer.
+
+Canadian Raising
+
+Canadian English displays a feature that is related to the concept of contrasting
+
+sounds in languages. This feature is commonly called Canadian Raising
+
+(although it is not exclusive to Canadian English) and involves two diphthongs
+
+/aj/ and /aw/. During speech, Canadian English speakers raise the vowel
+
+portion /a/ to [ʌ] before voiceless consonants. Thus, we see that diphthongs
+
+/aj/ and /aw/ become [ʌj] and [ʌw] yet they do not change meaning.
+
+Correct: (c) – 4! There are four vowels in the word ‘fo.to.gra.fik’ which
+
+correspond to four nuclei and hence four syllables.
+
+In the previous section, we have seen that sounds (segments) in human
+
+languages can be classified in various ways. We have also seen that they are
+
+sensitive to the segments in their vicinity during actual pronunciation, and we
+
+have discussed the distinction between phonemes (mental, abstract units),
+
+and allophones (their variants, respecting factors involved in actual
+
+pronunciation). A question we still need to ask: how are groups of segments
+
+organized?
+
+
+When we discussed the classification of human language sounds, we noticed
+
+that: vowels, glides, liquids, and nasals are sonorant sounds. Vowels are the
+
+most sonorous > glides > liquids> nasals stops, fricatives, affricates
+
+(obstruents) are not sonorant. Their sonorous capacity, allows vowels (as well
+
+as glides, liquids and nasals) to support segment groups, that is to form the
+
+peak of syllables. We mentioned before that syllables contain onsets. There is
+
+more to this: universal syllable shape constraints require onsets to be as large
+
+as possible. That is, every time a syllabification process has to choose between
+
+placing a segment in a coda or in an onset, the onset will be automatically
+
+preferred. Each language respects both universal and language-specific
+
+constraints in creating syllable structure. Three steps in the process of setting
+
+up syllables:
+
+
+1). Nucleus formation: reflecting the tendency of syllable to have a sonorant
+
+core
+
+2). Onset-formation: the tendency of syllables to have onsets
+
+3). Coda-formation: the tendency of syllables to have codas
+
+
+1). Nucleus formation - the nucleus is the only obligatory constituent of a
+
+syllable - it is constructed first - each vowel segment makes up a syllabic
+
+nucleus.
+
+
+2). Onset formation - onset: the longest sequence of consonants to the left of
+
+each nucleus that does not violate the phonotactic constraints of a specific
+
+language.
+
+3). Coda-formation - any remaining unassociated consonants to the right of
+
+each nucleus form the coda (Co) - Coda is associated with the syllable nucleus
+
+to its left in the rhyme - a syllable with a coda is called a closed syllable - a
+
+syllable without a coda is called open.
+
+
+Word-level construction - syllables that make up a single form (usually a word)
+
+branch out from the representation Wd - The complete representation is
+
+understood even when Wd is not written out).
+
+
+It is obvious now why the syllabifications proposed earlier are incorrect  they                                                  ɍ
+did not respect the Maximize Onset principle Question:
+
+
+What are the correct syllable structures for the words introduced above
+
+(applaud, explain)?
+
+
+Phonemic representation (underlying representation):
+
+
+a. equivalent to the mental representations speakers have of the words in their
+
+language
+
+b. basic representations of units such as the word
+
+c. unpredictable phonological information underlies all actual phonetic form
+
+
+Phonetic representations (surface representation): actual phonetic outputs
+
+that are produced in the course of speech. Phonemic representations become
+
+phonetic representations as a result of being acted upon by phonological
+
+processes:
+
+
+a. devoicing of liquids and glides
+
+b. Aspiration
+
+c. Canadian Raising
+
+d. Assimilation
+
+e. Etc.
+
+
+This topic will be explored in more details in next chapter.
+
+
+========================================================================
+WEEK 12 - Phonology II: Phonetic/Phonemic Representations
+========================================================================
+By now, you may have noticed the variation in our usage of brackets
+
+throughout the chapter. As we have seen in the previous section, languages
+
+have sets of sounds that are contrastive (phonemes) and sounds that have
+
+predictable variations (allophones). From now on, we will use two different
+
+types of representation to accommodate the specific types of information that
+
+are relevant to the problems we will be examining.
+
+
+While phonemic representation showcases the phonemes making up any
+
+particular linguistic unit (word, morpheme, etc.), the phonetic representation
+
+involves all of the additional information produced during speech (aspiration,
+
+nasalization, devoicing, etc.). Linguists use slanted brackets // for phonemic
+
+representations and square brackets [] for phonetic representations. An easy
+
+way of thinking about these representations is to keep in mind that phonemic
+
+representation involves abstract phonemes that are in your mind whereas
+
+phonetic representation corresponds to what comes out of your mouth. Take a
+
+look at the following table to identify the differences between the two
+
+representations. Keep in mind that since including all of the phonetic detail
+
+will take up a lot of space, we typically include only the most relevant
+
+information in our discussions.
+
+[Visual figure preserved in PDF]
+
+Correct: (a) - [pl̥æ̃nɪ̃ŋ]! Remember that phonetic representation corresponds to
+
+the word that is actually pronounced, including all of the processes. In this
+
+case, there is devoicing of the liquid following an aspirated stop /p/ as well as
+
+nasalization of vowels preceding nasal consonants /n/ and /ŋ/.
+
+Minimal Pairs
+
+Minimal pairs are one of the most common ways for linguists to identify
+
+whether two sounds are separate phonemes (i.e. contrastive). A minimal pair is
+
+a set of two words that differ by a single sound in the same position. As we
+                  beak    backhave seen previously,     and     are a minimal pair since they have the
+
+same number of segments and differ in only one sound – the vowel – in the
+                      bat     catsame position. Similarly,   and    are a minimal pair differing only in the
+
+initial consonant. Notice that by simply switching one phoneme with another,
+
+we are producing a completely new word which often has an unrelated
+
+meaning in any given language.
+
+
+When two segments produce a minimal pair, linguists know that they belong to
+
+different phonemes. Thus, /b/ and /k/ are separate phonemes, as are many
+
+other sounds in English.
+
+
+Can you think of some minimal pairs in English? List them below.
+
+Now say which two sounds contract in each pair.
+
+Correct: (a) – This is a minimal pair in English, therefore [r] and [l] are
+
+contrastive! If we were to transcribe ‘brand’ and ‘bland’, [brænd] and [blænd]
+
+respectively, we can see that these form a minimal pair. The pair differs in a
+
+single sound, creating words that have different meanings!
+
+Canadian Raising
+
+Have you heard that Canadians speak differently from other varieties of English
+
+spoken around the world when it comes to certain vowels? Canadian English
+
+displays a feature that is related to the concept of contrasting sounds in
+
+languages. This feature is commonly called Canadian Raising (although it is
+
+not exclusive to Canadian English) and involves two diphthongs /aj/ and /aw/.
+
+During speech, Canadian English speakers raise the vowel portion /a/ to [ʌ]
+
+before voiceless consonants. Thus, we see that diphthongs /aj/ and /aw/
+
+become [ʌj] and [ʌw] yet they do not change meaning.
+
+Syllables
+
+Phonology, as a field of linguistics, often deals with problems on a segmental
+
+(sound) level. Suprasegmental phonology – phonology looking at units bigger
+
+than a single sound – looks at how sounds combine. A syllable is a
+
+phonological unit that is relatively easy to perceive. A speaker of English
+
+should have no trouble counting the number of syllables in words such as
+
+‘today’ (to.day) and ‘calendar’ (ca.len.dar).
+
+
+Question: Count the number of syllables in the following words.
+
+
+a. Broke
+
+b. Breaking
+
+c. Bottle
+
+d. Comfortable
+
+e. Nationality
+
+f. Unionization
+
+Syllable Structure
+
+Languages show a variety of ways in which to organize syllables. Some
+
+languages show more complexity while others prefer simpler structures.
+
+Hawaiian, for example, allows up to one consonant in its syllable structure,
+
+effectively following the (C)V template where the consonant C is optional. We
+                              hulican see that words such as     ‘turn’ follow such a pattern:
+
+/hu.li/
+
+CV.CV
+
+
+Languages such as English allow up to three consonants at the beginning of
+the syllable (scratch) and up to four consonants at the end (sixths). When
+
+languages produce such complex consonant clusters, they often impose
+
+restrictions on which sounds can go with which. English three-consonant
+
+clusters follow a set of rules also known as phonotactics. Phonotactics deal
+
+with sound combinations and their rules. As such, the three-consonant
+
+sequence in English has to start with the phoneme /s/, followed by a voiceless
+
+stop, and finally followed by a liquid or a glide such as in squire, strap, sprout,
+
+and so on.
+
+A typical syllable follows a basic design:
+
+
+
+
+
+Note that the most important element of the syllable is the nucleus which is
+
+typically a simple vowel or a diphthong. A nucleus must be present in order to
+
+form a syllable; in other words the number of nuclei corresponds to the
+
+number of syllables in a word. In some cases, languages such as English allow
+                                               tablesonorant consonants to function as nuclei as in         [tej.bl̩]. Most, if not all
+
+languages allow an onset which consists of a least one consonant. Onsets
+
+appear to the left of the nucleus. Finally, many languages allow codas
+
+consisting of one or more consonants to the right of the nucleus.
+
+
+Question: List the main elements of a syllable.
+
+Correct: (c) – 4! There are four vowels in the word ‘ca.ta.stro.phic’ which
+
+correspond to four nuclei and hence four syllables.
+
+Building Syllable Structure
+
+There is a simple way of identifying syllables and constructing them.
+
+
+Step 1: Identifying the nucleus
+
+
+The nucleus is an obligatory part of the syllable. Recall that nuclei tend to be
+
+vowels, simply find all of the vowels in a transcribed word. To represent a
+
+nucleus, write an N over the vowel. Above the nucleus symbol, indicate an R
+
+which stands for rhyme. Rhymes are typically comprised of nuclei and codas if
+
+consonants are present. Place a sigma above the rhyme to represent a syllable.
+
+Step 2: Identifying the onset
+
+
+Identify the longest cluster of consonants to the left of every nucleus. When
+
+dealing with onsets, Maximize Onset Principle states that a we should make
+
+the onset as long as possible, so long as the cluster conforms to the rules of the
+
+particular language. As we are dealing with English, remember that there can
+
+only be three consonants in the onset if the fist consonant is /s/. As you are
+
+working through consonant clusters, keep in mind that if a cluster cannot
+
+appear at the beginning of an English word, then it will not form an onset. To
+
+show an onset in the structure, link the consonant to an O symbol which
+
+should join the sigma symbol.
+
+
+
+
+
+Step 3: Identifying the coda
+
+
+Finally, any left-over consonants to the right of the nucleus form a coda. Link
+
+them to the C symbol and attach the coda to the rhyme. If a syllable contains a
+
+coda, it is considered a closed syllable, while a syllable without a coda is
+
+called open.
+
+Basic Syllables
+
+If a language allows consonant clusters in either onsets or codas, there are two
+
+general rules that apply:
+
+
+(1) The Sonority Requirement
+
+
+The sonority must rise before the nucleus and fall after it.
+
+
+A basic sonority scale is provided below, rising from 0 to 4. Obstruents
+
+(containing oral stops, fricative, and affricates) are the least sonorous. Vowels,
+
+on the other hand, are the most sonorous.
+
+
+
+
+
+Monosyllabic words such as ‘brass’ and ‘print’ are the perfect examples of
+
+rising sonority in the onset and falling sonority in the coda.
+
+The second principle that applies to syllable structure is the following:
+
+
+(2) The Binarity Requirement
+
+
+In the context of simple syllables, each constituent must branch into two at the
+
+most.
+
+
+Looking back at the word ‘print’, both the onset and the coda contain the
+
+maximum number of consonants – two in the onset (p and r) and two in the
+
+coda (n and t).
+
+
+Since vowels are the most sonorous sounds, syllables usually require a vowel
+
+as their nucleus, in order to be independent. Less sonorous sounds might
+
+appear on either side of the nucleus. Therefore, a word like unexpected has 4
+
+syllables, because it has 4 vowels:
+
+
+ 1  2    3  4
+
+[ʌn . ɛk. spɛk.tɛd] (. = informal syllable division)
+
+
+Native speakers of English demonstrate their awareness of the sonority values
+
+of segments and of the syllable as a unit of phonological structure. To take
+
+another example, in a word like sprint speakers know that the existence of the
+
+vowel ɪ triggers the existence of a syllable. Also, some consonants precede the
+
+vowel, while other consonants follow the vowel.
+
+Syllables with More Complex Structures
+
+English, like many other languages, permits more much more complex
+
+syllables – for example ‘strong’ has three consonants in its onset while ‘trunks’
+
+has three consonants in its coda. Notice how both ‘strong’ and ‘trunks’ violate
+
+the Sonority Requirement by having flat sonority in the /st/ and /ks/ clusters.
+
+Since there are more than two consonants in the clusters, the Binarity
+
+Requirement is also violated.
+
+
+Linguists have observed restrictions on such complex syllables:
+
+
+    1. Additional consonants tend to appear at word boundaries – occurring at
+
+      the beginning or the end of words
+
+    2. In English, /s/ is the only additional consonant that can appear in
+
+      onsets. In the coda position, the extra consonant must be voiceless such
+
+     as /s/ and /t/.
+
+
+Russian is a language that often violates the Sonority and Binarity
+
+Requirements:
+
+Correct: (a) – 0 0 2 4 1 0 0! ‘sprints’ is an example of a word that contains a third
+
+consonant in both the onset and the coda positions. These instances of /s/
+
+created flat sonority which violates the Sonority Requirement as well as the
+
+Binarity Requirement.
+
